@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Publications/Manuscripts"
 author_profile: true
 redirect_from: 
   - /publications.html
