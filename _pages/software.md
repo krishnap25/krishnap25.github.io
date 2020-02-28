@@ -11,5 +11,10 @@ A toolbox of selected optimization algorithms for unstructured tasks such as bin
 See also the [documentation of Casimir](https://homes.cs.washington.edu/~pillutla/documentation/casimir/).
 
 [**RFA**](https://github.com/krishnap25/RFA):
-Implementation of robust aggregation algorithms for federated learning,
-in simulation using the [Leaf benchmark suite](https://leaf.cmu.edu/).
+Implementation of RFA, a robust aggregation algorithm for federated learning,
+in simulation.
+<!-- using the [Leaf benchmark suite](https://leaf.cmu.edu/). -->
+
+[**Simplicial-FL**](https://github.com/krishnap25/simplicial-fl):
+Implementation of Simplicial-FL to handle device heterogeneity in federated learning,
+in simulation. 
