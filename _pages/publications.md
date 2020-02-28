@@ -11,6 +11,12 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
+Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
+*Manuscipt*.  
+[PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
+[Code](https://github.com/krishnap25/simplicial-fl)
+
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *Manuscipt*.  
