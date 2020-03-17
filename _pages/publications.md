@@ -19,7 +19,7 @@ Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.
 
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
-*Manuscipt*.  
+*Submitted*.  
 [PDF](/papers/2019_rfa.pdf) &nbsp;
 [Code](https://github.com/krishnap25/RFA)
 
