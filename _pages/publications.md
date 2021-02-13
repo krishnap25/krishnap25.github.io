@@ -23,7 +23,7 @@ Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.
 *CISS 2021*.  
 Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.  
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
-[PDF-arXiv (old)](https://arxiv.org/pdf/2002.11223.pdf) 
+[PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf) 
 &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
 
