@@ -11,10 +11,20 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Device Heterogeneity in Federated Learning: A Superquantile Approach.**  
+
+**MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.**  
+Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Yejin Choi, Zaid Harchaoui.  
+*Manuscript*.  
+[PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
+[Code](https://github.com/krishnap25/mauve-experiments)
+
+**A Superquantile Approach to Federated Learning with Heterogenous Devices.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
-*Manuscipt*.  
-[PDF](https://arxiv.org/pdf/2002.11223.pdf) &nbsp;
+*CISS 2021*.  
+Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.  
+[PDF](/papers/2021_Simplicial_FL_CISS.pdf)
+[PDF-arXiv (old)](https://arxiv.org/pdf/2002.11223.pdf) 
+&nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
 
 **Robust Aggregation for Federated Learning.**  
