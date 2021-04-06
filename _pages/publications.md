@@ -18,7 +18,7 @@ Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Yejin Choi,
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments)
 
-**A Superquantile Approach to Federated Learning with Heterogenous Devices.**  
+**A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
 *CISS 2021*.  
 Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.  
