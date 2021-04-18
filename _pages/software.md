@@ -5,6 +5,9 @@ redirect_from:
   - /software.html
 ---
 
+[**MAUVE**](https://github.com/krishnap25/mauve): 
+A package to compute the MAUVE score for neural text generation. Available for installation via `pip install mauve-text`.
+
 [**Casimir**](https://github.com/krishnap25/casimir): 
 A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
 
