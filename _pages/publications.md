@@ -16,6 +16,7 @@ redirect_from:
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Yejin Choi, Zaid Harchaoui.  
 *Manuscript*.  
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
+[Software]((https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments)
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
