@@ -11,13 +11,19 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-
-**MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.**  
-Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Yejin Choi, Zaid Harchaoui.  
+**An Information Divergence Measure Between Neural Text and Human Text.**  
+Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
 *Manuscript*.  
+Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.  
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
 [Software](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments)
+
+**Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.**  
+Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
+*Manuscript*.  
+Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.  
+[PDF](https://arxiv.org/pdf/2106.07898.pdf) 
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
