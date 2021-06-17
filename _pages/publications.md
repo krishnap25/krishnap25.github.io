@@ -16,7 +16,7 @@ Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Wellec
 *Manuscript*.  
 Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.  
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
-[Software](https://github.com/krishnap25/mauve) &nbsp;
+[Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments)
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.**  
