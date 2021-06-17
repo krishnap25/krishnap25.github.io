@@ -22,7 +22,6 @@ Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-En
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.**  
 Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
 *Manuscript*.  
-Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.  
 [PDF](https://arxiv.org/pdf/2106.07898.pdf) 
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
