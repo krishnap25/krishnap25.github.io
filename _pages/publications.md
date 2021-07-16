@@ -37,7 +37,8 @@ Previously titled: Device Heterogeneity in Federated Learning: A Superquantile A
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *Submitted*.  
 [PDF](/papers/2019_rfa.pdf) &nbsp;
-[Code](https://github.com/krishnap25/RFA)
+[Code](https://github.com/krishnap25/RFA) &nbsp;
+[Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk)
 
 **A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
