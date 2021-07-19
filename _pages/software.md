@@ -5,7 +5,7 @@ redirect_from:
   - /software.html
 ---
 
-# Packages
+## Packages
 
 [**SQwash**](https://github.com/krishnap25/sqwash): 
 Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
@@ -20,7 +20,7 @@ A toolbox of selected optimization algorithms for unstructured tasks such as bin
 
 [Documentation of Casimir](https://homes.cs.washington.edu/~pillutla/documentation/casimir/)
 
-# Code to reproduce results from papers
+## Code to reproduce results from papers
 
 [**Mauve Experiments**](https://github.com/krishnap25/mauve-experiments):
 Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this paper](https://arxiv.org/pdf/2102.01454.pdf).
