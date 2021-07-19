@@ -22,7 +22,7 @@ A toolbox of selected optimization algorithms for unstructured tasks such as bin
 
 # Code to reproduce results from papers
 
-[**Mauve Experiments**](https://github.com/krishnap25/mauve-experiments)
+[**Mauve Experiments**](https://github.com/krishnap25/mauve-experiments):
 Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this paper](https://arxiv.org/pdf/2102.01454.pdf).
 
 [**RFA**](https://github.com/krishnap25/RFA):
