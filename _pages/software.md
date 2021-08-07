@@ -10,7 +10,7 @@ redirect_from:
 [**SQwash**](https://github.com/krishnap25/sqwash): 
 Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
 
-[Documentation of SQwash](krishnap25.github.io/sqwash/)
+[Documentation of SQwash](https://krishnap25.github.io/sqwash/)
 
 [**Mauve**](https://github.com/krishnap25/mauve): 
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
