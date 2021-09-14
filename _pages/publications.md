@@ -11,10 +11,15 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
+Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
+*Set-Valued and Variational Analysis (to appear). 2021*  
+[PDF](https://yassine-laguel.github.io/files/svaa-paper.pdf)
+
 **An Information Divergence Measure Between Neural Text and Human Text.**  
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
 *Manuscript*.  
-Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.  
+<!-- Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.   -->
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments)
@@ -27,7 +32,7 @@ Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
 *CISS 2021*.  
-Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.  
+<!-- Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.   -->
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
 [PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf) 
 &nbsp;
