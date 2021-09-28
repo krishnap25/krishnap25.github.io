@@ -11,14 +11,10 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
-Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
-*Set-Valued and Variational Analysis (to appear). 2021*  
-[PDF](https://yassine-laguel.github.io/files/svaa-paper.pdf)
 
 **An Information Divergence Measure Between Neural Text and Human Text.**  
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
-*Manuscript*.  
+*NeurIPS 2021 (Oral, Top 1% of all submissions)*.  
 <!-- Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.   -->
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
@@ -26,8 +22,18 @@ Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Wellec
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.**  
 Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*Manuscript*.  
+*NeurIPS 2021*.  
 [PDF](https://arxiv.org/pdf/2106.07898.pdf) 
+
+**LLC: Accurate, Multi-purpose Learnt Low-dimensional Binary Codes.**  
+Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung Park, Krishna Pillutla, Prateek Jain, Sham Kakade, Ali Farhadi.  
+*NeurIPS 2021*.  
+[PDF](https://arxiv.org/pdf/2106.01487.pdf)
+
+**Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
+Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
+*Set-Valued and Variational Analysis (to appear). 2021*  
+[PDF](https://yassine-laguel.github.io/files/svaa-paper.pdf)
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
