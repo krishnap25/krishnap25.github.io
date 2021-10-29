@@ -30,13 +30,17 @@ Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung P
 *NeurIPS 2021*.  
 [PDF](https://arxiv.org/pdf/2106.01487.pdf)
 
+**Federated Learning with Heterogeneous Devices: A Superquantile Optimization Approach.**  
+Krishna Pillutla*, Yassine Laguel*, Jérôme Malick, Zaid Harchaoui.  
+*Submitted.*  
+
 **Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
 *Set-Valued and Variational Analysis (to appear). 2021*  
 [PDF](https://yassine-laguel.github.io/files/svaa-paper.pdf)
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
-Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
+Yassine Laguel*, Krishna Pillutla*, Jérôme Malick, Zaid Harchaoui.  
 *CISS 2021*.  
 <!-- Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.   -->
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
@@ -62,15 +66,19 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 [Blog post](http://ads-institute.uw.edu//blog/2018/12/17/deep-struct-pred/) &nbsp;
 [Video summary](https://youtu.be/DkmroHdthvk)
 
+**A Markov Chain Theory Approach to Characterizing the Minimax Optimality of Stochastic Gradient Descent (for Least Squares).**  
+Prateek Jain, Sham M. Kakade, Rahul Kidambi, Praneeth Netrapalli, Venkata Krishna Pillutla, Aaron Sidford.  
+*FSTTCS 2017*.  
+[PDF](https://arxiv.org/pdf/1710.09430.pdf)
+
 **Data Driven Resource Allocation for Distributed Learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
 *AISTATS 2017*.  
 [PDF-long](http://arxiv.org/abs/1512.04848) &nbsp;
 [PDF-short](http://proceedings.mlr.press/v54/dick17a/dick17a.pdf) &nbsp;  
 
-
 **On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.**  
-Venkata Krishna Pillutla, Zhanpeng Fang, Christos Faloutsos, Danai Koutra, Jie Tang.  
+Venkata Krishna Pillutla*, Zhanpeng Fang*, Christos Faloutsos, Danai Koutra, Jie Tang.  
 *SDM 2016*.
 
 
