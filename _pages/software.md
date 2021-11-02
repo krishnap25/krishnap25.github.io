@@ -7,18 +7,16 @@ redirect_from:
 
 ## Packages
 
-[**SQwash**](https://github.com/krishnap25/sqwash): 
+[**SQwash**](https://github.com/krishnap25/sqwash) ([Documentation](https://krishnap25.github.io/sqwash/))   
 Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
 
-[Documentation of SQwash](https://krishnap25.github.io/sqwash/)
 
-[**Mauve**](https://github.com/krishnap25/mauve): 
+[**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](krishnap25.github.io/mauve/))  
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
 
-[**Casimir**](https://github.com/krishnap25/casimir): 
-A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
 
-[Documentation of Casimir](https://homes.cs.washington.edu/~pillutla/documentation/casimir/)
+[**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/))  
+A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
 
 ## Code to reproduce results from papers
 
