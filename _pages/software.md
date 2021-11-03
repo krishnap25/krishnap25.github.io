@@ -7,16 +7,19 @@ redirect_from:
 
 ## Packages
 
-[**SQwash**](https://github.com/krishnap25/sqwash) ([Documentation](https://krishnap25.github.io/sqwash/))   
-Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
-
 
 [**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](krishnap25.github.io/mauve/))  
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
 
+[**SQwash**](https://github.com/krishnap25/sqwash) ([Documentation](https://krishnap25.github.io/sqwash/))   
+Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
+
 
 [**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/))  
 A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
+
+[**RFA**](https://github.com/google-research/federated/tree/master/robust_aggregation)
+TensorFlow Federated Implementation of robust aggregation for federated learning using the geometric median.
 
 ## Code to reproduce results from papers
 
