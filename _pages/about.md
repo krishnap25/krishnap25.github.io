@@ -10,7 +10,7 @@ redirect_from:
 I am a Ph.D candidate in the Paul G. Allen School of Computer Science & Engineering at the **University of Washington**. 
 I am fortunate to be advised by [Zaid Harchaoui](http://faculty.washington.edu/zaid/) and [Sham Kakade](https://homes.cs.washington.edu/~sham/).
 
-I'm interested in machine learning, optimization and robustness broadly, and specifically in the setting of federated learning, generative modeling, and structured prediction.
+I'm interested in machine learning, optimization and robustness broadly, and specifically in the setting of federated learning, structured prediction, and text generation.
 I'm honored to be chosen as a 2019-20 [J.P. Morgan PhD Fellow](https://www.jpmorgan.com/country/US/en/technology/ai/awards/phd-fellowship-award-recipients).
 
 Previously, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my Master's at **Carnegie Mellon University**. 
