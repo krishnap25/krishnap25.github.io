@@ -8,9 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-I was a teaching assistant for
+I have been a teaching assistant for
 
+* DATA 598, Statistical Learning via Differentiable Programming, Winter 2021 and 2022, UW
+* [CSE 599M](https://courses.cs.washington.edu/courses/cse599m/19sp/), Reinforcement Learning and Bandits, Spring 2019, UW
 * [CSE 547](https://courses.cs.washington.edu/courses/cse547/18sp/), Machine Learning for Big Data, Spring 2018, UW
-* MA 214, Numerical Analysis, Spring 2014, IIT Bombay
-* CS 101 Computer Programming, Autumn 2013, IIT Bombay
-* CH 103, Chemistry I, Autumn 2012, IIT Bombay
+
