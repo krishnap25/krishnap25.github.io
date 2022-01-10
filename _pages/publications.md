@@ -36,11 +36,12 @@ Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung P
 **Federated Learning with Heterogeneous Devices: A Superquantile Optimization Approach.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
 *Submitted.*  
+[PDF](https://arxiv.org/pdf/2112.09429.pdf)
 
 **Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
-*Set-Valued and Variational Analysis (to appear). 2021*  
-[PDF](https://yassine-laguel.github.io/files/svaa-paper.pdf)
+*Set-Valued and Variational Analysis. 2021*  
+[PDF](https://arxiv.org/pdf/2201.00508.pdf) [Publisher's Page](https://link.springer.com/article/10.1007/s11228-021-00609-w)
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.  
