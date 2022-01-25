@@ -12,7 +12,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 
-**An Information Divergence Measure Between Neural Text and Human Text.**  
+**MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.**  
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
 *NeurIPS 2021. **Outstanding Paper Award** (Top 6 out of 9000 submissions)*.  
 <!-- Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.   -->
