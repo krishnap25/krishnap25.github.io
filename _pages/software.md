@@ -10,6 +10,7 @@ redirect_from:
 
 [**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](krishnap25.github.io/mauve/))  
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
+It is also supported via the [HuggingFace Datasets](https://huggingface.co/docs/datasets/how_to_metrics.html) package. 
 
 [**SQwash**](https://github.com/krishnap25/sqwash) ([Documentation](https://krishnap25.github.io/sqwash/))   
 Distributionally robust learning in PyTorch with 1 additional line of code. Install as `pip install sqwash`. 
