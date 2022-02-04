@@ -11,6 +11,14 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Robust Aggregation for Federated Learning.**  
+Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
+*IEEE Transactions on Signal Processing (2022)*.  
+[PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
+[Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
+[Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
+[Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk)
+
 
 **MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.**  
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
@@ -40,7 +48,7 @@ Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.
 
 **Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
-*Set-Valued and Variational Analysis. 2021*  
+*Set-Valued and Variational Analysis (2021)*.  
 [PDF](https://arxiv.org/pdf/2201.00508.pdf) &nbsp; &nbsp; 
 [Publisher's Page](https://link.springer.com/article/10.1007/s11228-021-00609-w)
 
@@ -53,13 +61,6 @@ Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.
 &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
 
-**Robust Aggregation for Federated Learning.**  
-Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
-*Submitted*.  
-[PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
-[Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
-[Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
-[Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk)
 
 **A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
