@@ -9,7 +9,7 @@ redirect_from:
 
 I am a student of [Pt. Iman Das](https://www.facebook.com/imandasvocal/) for Hindustani classical music in the style of the [Patiala Gharana](https://en.wikipedia.org/wiki/Patiala_gharana). In a past life, I used to play guitar in a rock/metal band. 
 
-I am interested in the fusion of Western music with Indian Classical music.
+Over the years, I have been interested in the fusion of Western music with Indian Classical music.
  My wonderful grandmother -  who played the
  <a href="https://en.wikipedia.org/wiki/Saraswati_veena">Veena</a> - and I had quite a blast making some fusion music.
 For more, check out my <a href="https://www.youtube.com/user/krishnap2504">YouTube channel</a>.
