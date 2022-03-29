@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: Research Talks
 author_profile: true
 redirect_from: 
