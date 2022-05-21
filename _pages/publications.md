@@ -11,6 +11,13 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+
+**Federated Learning with Partial Model Personalization.**  
+Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar Sanjabi, Lin Xiao.  
+*ICML 2022*.  
+[PDF](https://arxiv.org/pdf/2204.03809.pdf)
+
+
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *IEEE Transactions on Signal Processing (2022)*.  
