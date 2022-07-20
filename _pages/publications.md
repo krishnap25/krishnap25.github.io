@@ -15,7 +15,10 @@ redirect_from:
 **Federated Learning with Partial Model Personalization.**  
 Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar Sanjabi, Lin Xiao.  
 *ICML 2022*.  
-[PDF](https://arxiv.org/pdf/2204.03809.pdf)
+[PDF](https://arxiv.org/pdf/2204.03809.pdf) &nbsp;
+[Code](https://github.com/facebookresearch/FL_partial_personalization) &nbsp;
+[Slides (ICML Spotlight)](/slides/pfl_icml.pdf)  &nbsp;
+[Poster](/papers/2022_pfl_poster.pdf) &nbsp;
 
 
 **Robust Aggregation for Federated Learning.**  
