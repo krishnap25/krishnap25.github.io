@@ -5,6 +5,7 @@ redirect_from:
   - /talks.html
 ---
 
+* Federated Learning with Partial Model Personalization. (<a href="/slides/pfl_icml.pdf">slides</a>), **ICML Spotlight**, July 2022. 
 * Federated Learning: Heterogeneity, Robustness, and Optimization. (<a href="/slides/defense.pdf">slides</a>), **PhD Defense**, June 2022. 
 * MAUVE: Measuring the Gap Between Neural Text and Human Text (<a href="/slides/mauve.pdf">slides</a>), **Microsoft Research Asia**, March 2022. 
 * Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach ([slides](/slides/simplicial-fl-informs.pdf)) , **INFORMS Optimization Society Conference** (Greenville, SC, USA), March 2022.
