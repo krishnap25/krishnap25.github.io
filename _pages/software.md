@@ -20,9 +20,9 @@ Fast and Differentiable Geometric Median in PyTorch and NumPy. Install as `pip i
 
 [**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/))  
 A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
-<!-- 
+
 [**RFA**](https://github.com/google-research/federated/tree/master/robust_aggregation)
-TensorFlow Federated Implementation of robust aggregation for federated learning using the geometric median. -->
+TensorFlow Federated Implementation of robust aggregation for federated learning using the geometric median.
 
 ## Code to reproduce results from papers
 
