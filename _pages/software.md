@@ -27,7 +27,8 @@ TensorFlow Federated Implementation of robust aggregation for federated learning
 ## Code to reproduce results from papers
 
 [**Federated Learning with Partial Personalization**](https://github.com/facebookresearch/FL_partial_personalization):
-Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this ICML 2022 paper](https://arxiv.org/pdf/2204.03809.pdf).
+PyTorch implementation of various personalized federated learning algorithms and experiments on text, vision, and speech data. 
+Reproduce results from [this ICML 2022 paper](https://arxiv.org/pdf/2204.03809.pdf).
 
 [**Mauve Experiments**](https://github.com/krishnap25/mauve-experiments):
 Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this NeurIPS 2021 paper](https://arxiv.org/pdf/2102.01454.pdf).
