@@ -20,18 +20,21 @@ Fast and Differentiable Geometric Median in PyTorch and NumPy. Install as `pip i
 
 [**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/))  
 A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
-
+<!-- 
 [**RFA**](https://github.com/google-research/federated/tree/master/robust_aggregation)
-TensorFlow Federated Implementation of robust aggregation for federated learning using the geometric median.
+TensorFlow Federated Implementation of robust aggregation for federated learning using the geometric median. -->
 
 ## Code to reproduce results from papers
 
+[**Federated Learning with Partial Personalization**](https://github.com/facebookresearch/FL_partial_personalization):
+Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this ICML 2022 paper](https://arxiv.org/pdf/2204.03809.pdf).
+
 [**Mauve Experiments**](https://github.com/krishnap25/mauve-experiments):
-Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this paper](https://arxiv.org/pdf/2102.01454.pdf).
+Implementation of Mauve and other similarity measures for neural text generation. Reproduce results from [this NeurIPS 2021 paper](https://arxiv.org/pdf/2102.01454.pdf).
 
 [**RFA**](https://github.com/krishnap25/RFA) and PyTorch port [**tRFA**](https://github.com/krishnap25/tRFA):
 Implementation of RFA, a robust aggregation algorithm for federated learning,
-in simulation. Reproduce results from [this paper](https://arxiv.org/pdf/1912.13445.pdf).
+in simulation. Reproduce results from [this paper](https://arxiv.org/pdf/1912.13445.pdf) published in IEEE Transactions on Signal Processing 2022.
 <!-- using the [Leaf benchmark suite](https://leaf.cmu.edu/). -->
 
 [**Simplicial-FL**](https://github.com/krishnap25/simplicial-fl):
