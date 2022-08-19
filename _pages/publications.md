@@ -11,6 +11,12 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**From Enormous Structured Models to On-device Federated Learning: Robustness, Heterogeneity and Optimization.**  
+Krishna Pillutla  
+*PhD Dissertation (2022)*.  
+[PDF](/papers/phd_dissertation_kpillutla.pdf) &nbsp;
+[Slides](/slides/defense.pdf)
+
 
 **Federated Learning with Partial Model Personalization.**  
 Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar Sanjabi, Lin Xiao.  
