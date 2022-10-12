@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Krishna Pillutla"
 title_separator          : "-"
 name                     : &name "Krishna Pillutla"
-description              : &description "Ph.D student at the University of Washington"
+description              : &description "Machine learning researcher"
 url                      : https://krishnap25.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnap25/krishnap25.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Krishna Pillutla"
   avatar           : "pic2.jpg"
-  bio              : "Ph.D student specializing in ML, optimization and structured prediction"
+  bio              : "Machine learning researcher"
   location         :
   employer         : "University of Washington"
   googlescholar    : 
