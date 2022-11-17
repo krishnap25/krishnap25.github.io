@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a visiting researcher (postdoc) at Google Research in the Federated Learning team. I'm interested in machine learning, artifical intelligence, optimization and robustness broadly, and specifically in the setting of federated learning, and text generation.
+I'm a visiting researcher (postdoc) at Google Research in the Federated Learning team. I'm interested in machine learning, artificial intelligence, optimization and robustness broadly, and specifically in the setting of federated learning, and text generation.
 
 I obtained my PhD from the Paul G. Allen School of Computer Science & Engineering at the **University of Washington**,
 where I was fortunate to be advised by [Zaid Harchaoui](http://faculty.washington.edu/zaid/) and [Sham Kakade](https://sham.seas.harvard.edu/).
