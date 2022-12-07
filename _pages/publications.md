@@ -11,6 +11,16 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
+Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
+*Machine Learning (To Appear, 2022).*  
+Short version: *[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight** &nbsp;*  
+[PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
+[Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
+[Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
+[Poster](/papers/2022_sfl-distshift-poster.pdf) &nbsp;
+
+
 **From Enormous Structured Models to On-device Federated Learning: Robustness, Heterogeneity and Optimization.**  
 Krishna Pillutla  
 *PhD Dissertation (2022)*.  
@@ -57,10 +67,6 @@ Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung P
 *NeurIPS 2021*.  
 [PDF](https://arxiv.org/pdf/2106.01487.pdf)
 
-**Federated Learning with Heterogeneous Devices: A Superquantile Optimization Approach.**  
-Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
-*Submitted.*  
-[PDF](https://arxiv.org/pdf/2112.09429.pdf)
 
 **Superquantiles at Work : Machine Learning Applications and Efficient (Sub)gradient Computation.**  
 Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.  
