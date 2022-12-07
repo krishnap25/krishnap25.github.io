@@ -14,7 +14,7 @@ redirect_from:
 **Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
 *Machine Learning (To Appear, 2022).*  
-Short version: *[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
+*[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
 [PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
@@ -40,6 +40,7 @@ Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar San
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *IEEE Transactions on Signal Processing (2022)*.  
+*FL-ICML '20 **Long Presentation**.*  
 [PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
 [Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
 [Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
