@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 
-* Tackling Distribution Shifts in Federated Learning with Superquantile Aggregation (<a href="/slides/fl-shifts-drds2022.pdf">slides</a>), **[NeurIPS DistShift (Spotlight Talk)]** (New Orleans, LA, USA), December 2022. 
+* Tackling Distribution Shifts in Federated Learning with Superquantile Aggregation (<a href="/slides/fl-shifts-drds2022.pdf">slides</a>), **[NeurIPS DistShift (Spotlight Talk)](https://sites.google.com/view/distshift2022)** (New Orleans, LA, USA), December 2022. 
 * Federated Learning with Partial Model Personalization ([slides](/slides/partial_personalization.pdf)), **[Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home)**, October 2022. 
 * Tackling Distribution Shifts in Federated Learning (<a href="/slides/fl-shifts-drds2022.pdf">slides</a>), **[Distribution Shifts in Data Science Workshop](https://ifds-tripods.github.io/drds-workshop-2022/)** (Seattle, WA, USA), August 2022. 
 * Federated Learning with Heterogeneous Data: A Superquantile Optimization Approach ([slides](/slides/simplicial-fl-informs.pdf)), **International Conference on Continuous Optimization (ICCOPT)** (Bethlehem, PA, USA), July 2022.
