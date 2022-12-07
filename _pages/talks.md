@@ -18,4 +18,5 @@ redirect_from:
 * MAUVE: Measuring the Gap Between Neural Text and Human Text ([slides](/slides/mauve.pdf)), **NeurIPS Oral Presentation**, December 2021. 
 * Statistics of Evaluating Generative Models with Divergence Frontier ([slides](/slides/mauve-theory.pdf)), **FAIR Science of Deep Learning**, October 2021. 
 * A Superquantile Approach to Federated Learning with Heterogeneous Devices, **IFDS Ethics and Algorithms**, September 2021. 
+* Robust Aggregation for Federated Learning, **FL-ICML Long Presentation**, July 2020. 
 * Robust Aggregation for Federated Learning, **Federated Learning One World Seminar**, July 2020. 
