@@ -20,6 +20,17 @@ Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.
 [Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
 [Poster](/papers/2022_sfl-distshift-poster.pdf) &nbsp;
 
+**Statistical and Computational Guarantees for Influence Diagnostics.**  
+Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
+*Submitted (2022)*.  
+[PDF](https://arxiv.org/pdf/2212.04014.pdf) &nbsp;
+[Code](https://github.com/jfisher52/influence_theory) &nbsp;
+
+**Stochastic Optimization for Spectral Risk Measures.**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
+*Submitted (2022)*.
+[PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
+[Code](https://github.com/ronakdm/lerm) &nbsp;
 
 **From Enormous Structured Models to On-device Federated Learning: Robustness, Heterogeneity and Optimization.**  
 Krishna Pillutla  
