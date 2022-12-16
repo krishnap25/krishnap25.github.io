@@ -28,7 +28,7 @@ Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.
 
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
-*Submitted (2022)*.
+*Submitted (2022)*.  
 [PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
 [Code](https://github.com/ronakdm/lerm) &nbsp;
 
