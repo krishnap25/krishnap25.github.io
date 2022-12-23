@@ -13,7 +13,7 @@ redirect_from:
 
 **Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
-*Machine Learning (To Appear, 2022).*  
+*Machine Learning Journal (To Appear, 2022).*  
 *[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
 [PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
@@ -88,10 +88,10 @@ Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.  
-*CISS 2021*.  
+*IEEE CISS 2021*.  
 <!-- Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.   -->
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
-[PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf) 
+<!-- [PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf)  -->
 &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
 
@@ -119,8 +119,9 @@ Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan,
 [PDF-short](http://proceedings.mlr.press/v54/dick17a/dick17a.pdf) &nbsp;  
 
 **On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.**  
-Venkata Krishna Pillutla*, Zhanpeng Fang*, Christos Faloutsos, Danai Koutra, Jie Tang.  
-*SDM 2016*.
+Venkata Krishna Pillutla\*, Zhanpeng Fang\*, Christos Faloutsos, Danai Koutra, Jie Tang.  
+*SIAM International Conference on Data Mining (SDM) 2016*.
+[PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611974348.88) &nbsp;  
 
 
 **Master's Thesis: Data Driven Resource Allocation For Distributed Machine Learning.**                 
