@@ -26,7 +26,7 @@ Main Organizer
 
 - **GPU cluster co-maintainer** for Zaid Harchaoui's group (2018-2022)
 - **Working group co-organizer**:
-  * Extending the Reach of Differentialble Programming (2020)
+  * Extending the Reach of Differentiable Programming (2020)
   * Statistical Inference via Convex Optimization (2020)
   * Computational Optimal Transport (2018)
 - **Student Area Chair** for Machine Learning, PhD Admissions (2020-21)  
