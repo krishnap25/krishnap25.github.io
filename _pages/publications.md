@@ -1,5 +1,5 @@
 ---
-title: "Publications/Manuscripts"
+title: "Publications"
 author_profile: true
 redirect_from: 
   - /publications.html
@@ -11,14 +11,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
-Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
-*Machine Learning Journal (To Appear, 2022).*  
-*[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
-[PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
-[Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
-[Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
-[Poster](/papers/2022_sfl-distshift-poster.pdf) &nbsp;
+## Working Papers
 
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
@@ -31,6 +24,17 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.
 *Submitted (2022)*.  
 [PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
 [Code](https://github.com/ronakdm/lerm) &nbsp;
+
+## Conference and Journal Publications
+
+**Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
+Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
+*Machine Learning Journal (To Appear, 2022).*  
+*[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
+[PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
+[Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
+[Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
+[Poster](/papers/2022_sfl-distshift-poster.pdf) &nbsp;
 
 **From Enormous Structured Models to On-device Federated Learning: Robustness, Heterogeneity and Optimization.**  
 Krishna Pillutla  
@@ -91,10 +95,10 @@ Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.
 *IEEE CISS 2021*.  
 <!-- Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.   -->
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
-<!-- [PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf)  -->
 &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl)
 
+<!-- [PDF-arXiv(old)](https://arxiv.org/pdf/2002.11223.pdf)  -->
 
 **A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
@@ -120,7 +124,7 @@ Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan,
 
 **On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.**  
 Venkata Krishna Pillutla\*, Zhanpeng Fang\*, Christos Faloutsos, Danai Koutra, Jie Tang.  
-*SIAM International Conference on Data Mining (SDM) 2016*.
+*SIAM International Conference on Data Mining (SDM) 2016*.  
 [PDF](https://epubs.siam.org/doi/epdf/10.1137/1.9781611974348.88) &nbsp;  
 
 
