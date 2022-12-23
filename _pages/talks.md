@@ -21,4 +21,4 @@ redirect_from:
 * A Superquantile Approach to Federated Learning with Heterogeneous Devices, **IFDS Ethics and Algorithms**, September 2021. 
 * Robust Aggregation for Federated Learning, **FL-ICML Long Presentation**, July 2020. 
 * Robust Aggregation for Federated Learning, **Federated Learning One World Seminar**, July 2020. 
-* A Smoother Way to Train Structured Prediction Models, **Facebook AI Research**, July 2020. 
+* A Smoother Way to Train Structured Prediction Models, **Facebook AI Research**, July 2019. 
