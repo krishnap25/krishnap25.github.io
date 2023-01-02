@@ -13,6 +13,18 @@ redirect_from:
 
 ## Working Papers
 
+**MAUVE Scores for Generative Models: Theory and Practice.**  
+Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
+*Submitted (2023)*.  
+[PDF](https://arxiv.org/pdf/2212.14578.pdf) &nbsp;
+[Pip-package](https://github.com/krishnap25/mauve) &nbsp;
+[Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
+
+**Modified Gauss-Newton Algorithms under Noise.**  
+Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
+*Submitted (2022)*.  
+[PDF](https://krishnap25.github.io/papers/prox_linear.pdf)  &nbsp;
+
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
 *Submitted (2022)*.  
