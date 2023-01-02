@@ -15,7 +15,7 @@ redirect_from:
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*Under Preparation (2023)*.  
+*Manuscript (2023)*.  
 [PDF](https://arxiv.org/pdf/2212.14578.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
