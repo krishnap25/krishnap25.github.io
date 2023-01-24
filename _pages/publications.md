@@ -25,19 +25,20 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 *Submitted (2022)*.  
 [PDF](https://krishnap25.github.io/papers/prox_linear.pdf)  &nbsp;
 
+
+## Conference and Journal Publications
+
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
-*Submitted (2022)*.  
+*AISTATS (2023)*.  
 [PDF](https://arxiv.org/pdf/2212.04014.pdf) &nbsp;
 [Code](https://github.com/jfisher52/influence_theory) &nbsp;
 
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
-*Submitted (2022)*.  
+*AISTATS (2023)*.  
 [PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
 [Code](https://github.com/ronakdm/lerm) &nbsp;
-
-## Conference and Journal Publications
 
 **Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
