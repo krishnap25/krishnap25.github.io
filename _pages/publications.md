@@ -20,13 +20,12 @@ Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
 
+## Conference and Journal Publications
+
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-*Submitted (2022)*.  
+*[IEEE SSP (2023)](https://ssp2023.org/)*.  
 [PDF](https://krishnap25.github.io/papers/prox_linear.pdf)  &nbsp;
-
-
-## Conference and Journal Publications
 
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
@@ -42,7 +41,7 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.
 
 **Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
-*Machine Learning Journal (To Appear, 2022).*  
+*Machine Learning Journal (To Appear, 2023).*  
 *[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
 [PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
