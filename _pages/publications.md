@@ -13,9 +13,14 @@ redirect_from:
 
 ## Working Papers
 
+**Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
+Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
+*Submitted (2023)*.  
+[PDF](https://arxiv.org/pdf/2305.18447.pdf)
+
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*Manuscript (2023)*.  
+*Submitted (2023)*.  
 [PDF](https://arxiv.org/pdf/2212.14578.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
