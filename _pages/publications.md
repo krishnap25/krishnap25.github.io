@@ -46,9 +46,10 @@ Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.
 
 **Federated Learning with Superquantile Aggregation for Heterogeneous Data.**  
 Krishna Pillutla\*, Yassine Laguel\*, Jérôme Malick, Zaid Harchaoui.  
-*Machine Learning Journal (To Appear, 2023).*  
+*Machine Learning Journal (2023).*  
 *[FL-NeurIPS '22](https://federated-learning.org/fl-neurips-2022/), [DistShift-NeurIPS '22](https://sites.google.com/view/distshift2022) **Spotlight**.*  
 [PDF](https://arxiv.org/pdf/2112.09429.pdf) &nbsp;
+[Publisher's Page](https://link.springer.com/article/10.1007/s10994-023-06332-x) &nbsp;
 [Code](https://github.com/krishnap25/simplicial-fl) &nbsp;
 [Slides](/slides/simplicial-fl-informs.pdf)  &nbsp;
 [Poster](/papers/2022_sfl-distshift-poster.pdf) &nbsp;
@@ -72,8 +73,9 @@ Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar San
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *IEEE Transactions on Signal Processing (2022)*.  
-*FL-ICML '20 **Long Presentation**.*  
+*FL-ICML 2020 **Long Presentation**, ICASSP 2023*  
 [PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
+[Publisher's Page](https://ieeexplore.ieee.org/document/9721118) &nbsp;
 [Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
 [Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
 [Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk)
