@@ -73,12 +73,13 @@ Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar San
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *IEEE Transactions on Signal Processing (2022)*.  
-*FL-ICML 2020 **Long Presentation**, ICASSP 2023*  
+*FL-ICML 2020 **Long Oral Presentation**, ICASSP 2023*  
 [PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
 [Publisher's Page](https://ieeexplore.ieee.org/document/9721118) &nbsp;
 [Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
 [Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
-[Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk)
+[Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk) &nbsp;
+[Poster](/papers/2022_rfa_poster.pdf) 
 
 
 **MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.**  
