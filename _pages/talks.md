@@ -5,7 +5,9 @@ redirect_from:
   - /talks.html
 ---
 
-
+* MAUVE Scores for Generative Models, **ETH Zürich** (Zurich, Switzerland), June 2023.
+* Distributionally Robust Federated Learning: Differential Privacy and Fast Optimization, **EPFL** (Lausanne, Switzerland), June 2023.
+* Distributionally Robust Federated Learning with Differential Privacy ([slides](/slides/simplicial-fl-informs.pdf)), **SIAM Conference on Optimization (OP23)** (Seattle, WA, USA), May 2023.
 * Tackling Distribution Shifts in Federated Learning with Superquantile Aggregation (<a href="/slides/fl-shifts-drds2022.pdf">slides</a>), **[NeurIPS DistShift (Spotlight Talk)](https://sites.google.com/view/distshift2022)** (New Orleans, LA, USA), December 2022. 
 * Federated Learning with Partial Model Personalization ([slides](/slides/partial_personalization.pdf)), **[Federated Learning One World Seminar](https://sites.google.com/view/one-world-seminar-series-flow/home)**, October 2022. 
 * MAUVE: Measuring the Gap Between Neural Text and Human Text (<a href="/slides/mauve.pdf">slides</a>), **IFML/NSF Site Visit**, August 2022. 
