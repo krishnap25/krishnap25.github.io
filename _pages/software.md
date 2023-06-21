@@ -7,6 +7,10 @@ redirect_from:
 
 ## Packages
 
+[**Dataset Grouper**](https://github.com/google-research/dataset_grouper)
+A scalable library to create, write, and iterate over group-partitioned (i.e. federated) datasets.
+It allows the creation of federated datasets suitable for pretraining and finetuning large language models.
+Install as `pip install dataset-grouper`.
 
 [**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](krishnap25.github.io/mauve/))  
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
@@ -36,7 +40,6 @@ Implementation of Mauve and other similarity measures for neural text generation
 [**RFA**](https://github.com/krishnap25/RFA) and PyTorch port [**tRFA**](https://github.com/krishnap25/tRFA):
 Implementation of RFA, a robust aggregation algorithm for federated learning,
 in simulation. Reproduce results from [this paper](https://arxiv.org/pdf/1912.13445.pdf) published in IEEE Transactions on Signal Processing 2022.
-<!-- using the [Leaf benchmark suite](https://leaf.cmu.edu/). -->
 
 [**Simplicial-FL**](https://github.com/krishnap25/simplicial-fl):
 Implementation of Simplicial-FL to handle device heterogeneity in federated learning,
