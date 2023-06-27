@@ -29,8 +29,9 @@ Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta
 
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-*[IEEE SSP (2023)](https://ssp2023.org/)*.  
+*[IEEE SSP (2023)](https://ssp2023.org/)*, *[HOO-NeurIPS (2022)](https://order-up-ml.github.io/)*.  
 [PDF](https://krishnap25.github.io/papers/prox_linear.pdf)  &nbsp;
+[Poster](/papers/2022_proxlin-poster.pdf) &nbsp;
 
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
