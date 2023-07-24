@@ -13,10 +13,17 @@ redirect_from:
 
 ## Working Papers
 
+**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
+Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
+*Submitted (2023)*.  
+[PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
+[Software](https://github.com/google-research/dataset_grouper) &nbsp;
+
 **Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
 Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
 *Submitted (2023)*.  
-[PDF](https://arxiv.org/pdf/2305.18447.pdf)
+[PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
+[Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
