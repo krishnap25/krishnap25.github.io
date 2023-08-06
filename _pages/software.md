@@ -12,7 +12,7 @@ A scalable library to create, write, and iterate over group-partitioned (i.e. fe
 It allows the creation of federated datasets suitable for pretraining and finetuning large language models.
 Install as `pip install dataset-grouper`.
 
-[**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](krishnap25.github.io/mauve/))  
+[**Mauve**](https://github.com/krishnap25/mauve) ([Documentation](https://krishnap25.github.io/mauve/))  
 A package to compute the Mauve score for neural text generation. Install as `pip install mauve-text`.
 It is also supported via the [HuggingFace Evaluate](https://github.com/huggingface/evaluate/) package. 
 
