@@ -13,17 +13,15 @@ redirect_from:
 
 ## Working Papers
 
-**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
-Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
+**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning.**  
+Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
 *Submitted (2023)*.  
-[PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
-[Software](https://github.com/google-research/dataset_grouper) &nbsp;
+[PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
 
-**Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
-Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
+**User Inference Attacks on Large Language Models.**  
+Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
 *Submitted (2023)*.  
-[PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
-[Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
+[PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
@@ -34,6 +32,19 @@ Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta
 
 ## Conference and Journal Publications
 
+**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
+Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
+*NeurIPS Datasets and Benchmarks (2023)*.  
+[PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
+[Software](https://github.com/google-research/dataset_grouper) &nbsp;
+
+**Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
+Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
+*NeurIPS (2023)*.  
+Also presented at *[FL@ICML (2023)](https://fl-icml2023.github.io/), [TPDP (2023)](https://tpdp.journalprivacyconfidentiality.org/2023/)*   
+[PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
+[Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
+
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
 *[IEEE SSP (2023)](https://ssp2023.org/)*, *[HOO-NeurIPS (2022)](https://order-up-ml.github.io/)*.  
@@ -43,12 +54,14 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
 *AISTATS (2023)*.  
+***ASA Student Paper Award 2023 Honorable Mention** ([Section on Statistical Learning & Data Science](https://amstat.connectedcommunity.org/discussion/2023-slds-student-paper-award-results))*  
 [PDF](https://arxiv.org/pdf/2212.04014.pdf) &nbsp;
 [Code](https://github.com/jfisher52/influence_theory) &nbsp;
 
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
 *AISTATS (2023)*.  
+***ASA Student Paper Award 2023 Honorable Mention** ([Risk Analysis Section](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*  
 [PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
 [Code](https://github.com/ronakdm/lerm) &nbsp;
 
