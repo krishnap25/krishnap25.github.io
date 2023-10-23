@@ -5,6 +5,7 @@ redirect_from:
   - /talks.html
 ---
 
+* Unleashing the Power of Randomization in Auditing Differentially Private ML, **[GraPFiCs Workshop](https://sites.google.com/view/grapfics2023/)** at UC Santa Cruz, October 2023.
 * MAUVE Scores for Generative Models, **ETH Zürich** (Zurich, Switzerland), June 2023.
 * Distributionally Robust Federated Learning: Differential Privacy and Fast Optimization, **EPFL** (Lausanne, Switzerland), June 2023.
 * Distributionally Robust Federated Learning with Differential Privacy ([slides](/slides/simplicial-fl-informs.pdf)), **SIAM Conference on Optimization (OP23)** (Seattle, WA, USA), May 2023.
