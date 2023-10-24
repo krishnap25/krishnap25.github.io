@@ -23,6 +23,12 @@ Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Cho
 *Submitted (2023)*.  
 [PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
 
+**Distributionally Robust Optimization with Bias and Variance Reduction.**  
+Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
+*Submitted (2023)*.  
+[PDF](https://arxiv.org/pdf/2310.13863.pdf)  &nbsp;
+[Code](https://github.com/ronakdm/prospect) &nbsp;
+
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
 *Submitted (2023)*.  
