@@ -50,6 +50,7 @@ Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, 
 Also presented at *[FL@ICML (2023)](https://fl-icml2023.github.io/), [TPDP (2023)](https://tpdp.journalprivacyconfidentiality.org/2023/)*   
 [PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
 [Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
+[Code](https://github.com/google-research/federated/tree/master/lidp_auditing) &nbsp;
 
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
