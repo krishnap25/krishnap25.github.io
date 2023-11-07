@@ -30,6 +30,9 @@ TensorFlow Federated Implementation of robust aggregation for federated learning
 
 ## Code to reproduce results from papers
 
+[**LiDP Auditing**](https://github.com/google-research/federated/tree/master/lidp_auditing):
+Code to reproduce the experimental results of [this NeurIPS 2023 paper](https://arxiv.org/pdf/2305.18447.pdf).
+
 [**Federated Learning with Partial Personalization**](https://github.com/facebookresearch/FL_partial_personalization):
 PyTorch implementation of various personalized federated learning algorithms and experiments on text, vision, and speech data. 
 Reproduce results from [this ICML 2022 paper](https://arxiv.org/pdf/2204.03809.pdf).
