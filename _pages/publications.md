@@ -124,7 +124,8 @@ Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Wellec
 Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
 *NeurIPS 2021*.  
 [PDF](https://arxiv.org/pdf/2106.07898.pdf) &nbsp; 
-[Code](https://github.com/langliu95/divergence-frontier-bounds) 
+[Code](https://github.com/langliu95/divergence-frontier-bounds) &nbsp;
+[Poster](/papers/2021_mauve-theory-poster.pdf) &nbsp; 
 
 **LLC: Accurate, Multi-purpose Learnt Low-dimensional Binary Codes.**  
 Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung Park, Krishna Pillutla, Prateek Jain, Sham Kakade, Ali Farhadi.  
