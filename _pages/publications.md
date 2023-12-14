@@ -43,6 +43,7 @@ Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachar
 *NeurIPS Datasets and Benchmarks (2023)*.  
 [PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
 [Software](https://github.com/google-research/dataset_grouper) &nbsp;
+[Poster](/papers/2023_federated-foundation-poster.pdf)  &nbsp;
 
 **Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
 Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
