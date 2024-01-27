@@ -13,37 +13,30 @@ redirect_from:
 
 ## Working Papers
 
-**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning.**  
-Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
-*Submitted (2023)*.  
-[PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
-
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
 *Submitted (2023)*.  
 [PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
 
+## Conference and Journal Publications
+
+**Correlated Noise Provably Beats Independent Noise for Differentially Private Learning.**  
+Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
+*ICLR (2024)*.  
+[PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
+
 **Distributionally Robust Optimization with Bias and Variance Reduction.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
-*Submitted (2023)*.  
+*ICLR (2024) **Spotlight**.*  
 [PDF](https://arxiv.org/pdf/2310.13863.pdf)  &nbsp;
 [Code](https://github.com/ronakdm/prospect) &nbsp;
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*Submitted (2023)*.  
-[PDF](https://arxiv.org/pdf/2212.14578.pdf) &nbsp;
+*JMLR (2023)*.  
+[PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
-
-## Conference and Journal Publications
-
-**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
-Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
-*NeurIPS Datasets and Benchmarks (2023)*.  
-[PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
-[Software](https://github.com/google-research/dataset_grouper) &nbsp;
-[Poster](/papers/2023_federated-foundation-poster.pdf)  &nbsp;
 
 **Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
 Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
@@ -52,6 +45,13 @@ Also presented at *[FL@ICML (2023)](https://fl-icml2023.github.io/), [TPDP (2023
 [PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
 [Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
 [Code](https://github.com/google-research/federated/tree/master/lidp_auditing) &nbsp;
+
+**Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
+Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
+*NeurIPS Datasets and Benchmarks (2023)*.  
+[PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
+[Software](https://github.com/google-research/dataset_grouper) &nbsp;
+[Poster](/papers/2023_federated-foundation-poster.pdf)  &nbsp;
 
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
