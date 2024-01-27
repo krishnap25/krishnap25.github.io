@@ -19,5 +19,5 @@ Contact me at [my-last-name] @ cs [dot] washington [dot] edu.
 
 ## News
 
-* [Dec. 2023] Paper on _MAUVE Scores for Generative AI_ accepted to JMLR!
-* [Jan. 2023] Paper on _Differentially Private Superquantile Aggregation for Federated Learning_ accepted to the Machine Learning Journal! See the [Project Page](https://krishnap25.github.io/simplicial-fl-overview/)
+* [Dec. 2023] [Paper](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) on _MAUVE Scores for Generative AI_ accepted to JMLR!
+* [Jan. 2023] [Paper](https://link.springer.com/article/10.1007/s10994-023-06332-x) on _Differentially Private Superquantile Aggregation for Federated Learning_ accepted to the Machine Learning Journal! See the [Project Page](https://krishnap25.github.io/simplicial-fl-overview/)
