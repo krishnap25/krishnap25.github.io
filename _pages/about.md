@@ -16,3 +16,8 @@ Before that, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my 
 My research has been recognized by [a NeurIPS outstanding paper award](https://news.cs.washington.edu/2022/02/28/allen-school-and-ai2-researchers-paint-the-neurips-conference-mauve-and-take-home-an-outstanding-paper-award/) and I was a 2019-20 [J.P. Morgan PhD Fellow](https://www.jpmorgan.com/country/US/en/technology/ai/awards/phd-fellowship-award-recipients).
 
 Contact me at [my-last-name] @ cs [dot] washington [dot] edu.
+
+## News
+
+* [Dec. 2023] Paper on _MAUVE Scores for Generative AI_ accepted to JMLR!
+* [Jan. 2023] Paper on _Differentially Private Superquantile Aggregation for Federated Learning_ accepted to the Machine Learning Journal! See the [Project Page](https://krishnap25.github.io/simplicial-fl-overview/)
