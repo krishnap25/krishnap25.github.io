@@ -24,6 +24,7 @@ Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Cho
 Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
 *ICLR (2024)*.  
 [PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
+[Slides](/slides/dpftrl_dynamics.pdf)  &nbsp;
 
 **Distributionally Robust Optimization with Bias and Variance Reduction.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
@@ -52,6 +53,7 @@ Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachar
 [PDF](https://arxiv.org/pdf/2307.09619.pdf)  &nbsp;
 [Software](https://github.com/google-research/dataset_grouper) &nbsp;
 [Poster](/papers/2023_federated-foundation-poster.pdf)  &nbsp;
+[Slides](/slides/towards_federated_foundation_models_neurips2023.pdf)  &nbsp;
 
 **Modified Gauss-Newton Algorithms under Noise.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
