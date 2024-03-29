@@ -5,6 +5,8 @@ redirect_from:
   - /talks.html
 ---
 
+* Correlated Noise Provably Beats Independent Noise for Differentially Private Learning (<a href="/slides/dpftrl_dynamics.pdf">slides</a>), **Laboratoire Jean Kuntzmann, UGA** (Grenoble, France), February 2024.
+* Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **Google Federated Learning Seminar (Postdoc final presentation)**, February 2024.
 * Unleashing the Power of Randomization in Auditing Differentially Private ML, **[GraPFiCs Workshop](https://sites.google.com/view/grapfics2023/)** at UC Santa Cruz, October 2023.
 * MAUVE Scores for Generative Models, **ETH Zürich** (Zurich, Switzerland), June 2023.
 * Distributionally Robust Federated Learning: Differential Privacy and Fast Optimization, **EPFL** (Lausanne, Switzerland), June 2023.
