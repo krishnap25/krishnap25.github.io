@@ -13,6 +13,11 @@ redirect_from:
 
 ## Working Papers
 
+**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy.**  
+Krishnamurthy Dvijotham, H. Brendan McMahan, Krishna Pillutla, Thomas Steinke, Abhradeep Thakurta.  
+*Submitted (2024)*.  
+[PDF](https://arxiv.org/pdf/2404.16706)  &nbsp;  
+
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
 *Submitted (2023)*.  
