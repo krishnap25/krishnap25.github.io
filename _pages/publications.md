@@ -30,6 +30,7 @@ Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Aru
 *ICLR (2024)*.  
 [PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
 [Slides](/slides/dpftrl_dynamics.pdf)  &nbsp;
+[Poster](/papers/2024_dpftrl_iclr_poster.pdf)  &nbsp;
 
 **Distributionally Robust Optimization with Bias and Variance Reduction.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
