@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming assistant professor at [**IIT Madras**](http://www.cse.iitm.ac.in/), starting in April 2024. 
-My group will study the theory and practice of ML & AI, focusing on privacy-preserving, federated, and robust learning, with applications to LLMs and generative AI.
+I'm an assistant professor in the Computer Science & Engineering department at [**IIT Madras**](http://www.cse.iitm.ac.in/). 
+My group studies the theory and practice of ML & AI, focusing on privacy-preserving and robust learning, with applications to LLMs and generative AI.
 
-Currently, I'm a visiting researcher (postdoc) at Google Research in the Federated Learning team. I obtained my PhD from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the **University of Washington**,
+Previously, I was a visiting researcher (postdoc) at Google Research in the Federated Learning team. I obtained my PhD from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the **University of Washington**,
 where I was fortunate to be advised by [Zaid Harchaoui](http://faculty.washington.edu/zaid/) and [Sham Kakade](https://sham.seas.harvard.edu/).
 Before that, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my Master's at **Carnegie Mellon University** and received an undergraduate degree from IIT Bombay.
 
