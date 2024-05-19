@@ -28,22 +28,26 @@ Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Cho
 **Correlated Noise Provably Beats Independent Noise for Differentially Private Learning.**  
 Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
 *ICLR (2024)*.  
+Also presented at *[FL@FM-NeurIPS (2023)](https://federated-learning.org/fl@fm-neurips-2023/)*   
 [PDF](https://arxiv.org/pdf/2310.06771.pdf)  &nbsp;
 [Slides](/slides/dpftrl_dynamics.pdf)  &nbsp;
 [Poster](/papers/2024_dpftrl_iclr_poster.pdf)  &nbsp;
 
 **Distributionally Robust Optimization with Bias and Variance Reduction.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Zaid Harchaoui.  
-*ICLR (2024) **Spotlight**.*  
+*ICLR (2024) **Spotlight**.*   
+Also presented at *[DP4ML-ICML (2023)](https://dp4ml.github.io/)*   
 [PDF](https://arxiv.org/pdf/2310.13863.pdf)  &nbsp;
 [Code](https://github.com/ronakdm/prospect) &nbsp;
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
 *JMLR (2023)*.  
+Also presented at *[DeepMath (2023)](https://deepmath-conference.com/)*   
 [PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
 [Code](https://github.com/krishnap25/mauve-experiments) &nbsp;
+[Poster](/papers/2023_mauve-jmlr-poster.pdf)  &nbsp;
 
 **Unleashing the Power of Randomization in Auditing Differentially Private ML.**  
 Krishna Pillutla, Galen Andrew, Peter Kairouz, H. Brendan McMahan, Alina Oprea, Sewoong Oh.  
