@@ -42,7 +42,7 @@ Also presented at *[DP4ML-ICML (2023)](https://dp4ml.github.io/)*
 
 **MAUVE Scores for Generative Models: Theory and Practice.**  
 Krishna Pillutla\*, Lang Liu\*, John Thickstun, Sean Welleck, Swabha Swayamdipta, Rowan Zellers, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*JMLR (2023)*.  
+*JMLR (2023)* <b><i><mark>Best Papers Track</mark></i></b>.  
 Also presented at *[DeepMath (2023)](https://deepmath-conference.com/)*   
 [PDF](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) &nbsp;
 [Project Page](https://krishnap25.github.io/mauve-overview/)  &nbsp;
@@ -75,14 +75,14 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Statistical and Computational Guarantees for Influence Diagnostics.**  
 Jillian Fisher, Lang Liu, Krishna Pillutla, Yejin Choi, Zaid Harchaoui.  
 *AISTATS (2023)*.  
-***ASA Student Paper Award 2023 Honorable Mention** ([Section on Statistical Learning & Data Science](https://amstat.connectedcommunity.org/discussion/2023-slds-student-paper-award-results))*  
+<b><i><mark>ASA Student Paper Award 2023 Honorable Mention</mark></i></b> *([Section on Statistical Learning & Data Science](https://amstat.connectedcommunity.org/discussion/2023-slds-student-paper-award-results))*  
 [PDF](https://arxiv.org/pdf/2212.04014.pdf) &nbsp;
 [Code](https://github.com/jfisher52/influence_theory) &nbsp;
 
 **Stochastic Optimization for Spectral Risk Measures.**  
 Ronak Mehta, Vincent Roulet, Krishna Pillutla, Lang Liu, Zaid Harchaoui.  
 *AISTATS (2023)*.  
-***ASA Student Paper Award 2023 Honorable Mention** ([Risk Analysis Section](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*  
+<b><i><mark>ASA Student Paper Award 2023 Honorable Mention</mark></i></b> *([Risk Analysis Section](https://community.amstat.org/riskanalysissection/awards/studentaward/description))*  
 [PDF](https://arxiv.org/pdf/2212.05149.pdf) &nbsp;
 [Code](https://github.com/ronakdm/lerm) &nbsp;
 
@@ -116,6 +116,7 @@ Krishna Pillutla, Kshitiz Malik, Abdelrahman Mohamed, Michael Rabbat, Maziar San
 **Robust Aggregation for Federated Learning.**  
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.  
 *IEEE Transactions on Signal Processing (2022)*.  
+<b><i><mark>IEEE SPS Top 25 Downloaded Paper in 9/22 - 9/23.</mark></i></b>    
 *FL-ICML 2020 **Long Oral Presentation**, ICASSP 2023*  
 [PDF](https://arxiv.org/pdf/1912.13445.pdf) &nbsp;
 [Publisher's Page](https://ieeexplore.ieee.org/document/9721118) &nbsp;
@@ -127,7 +128,8 @@ Krishna Pillutla, Sham Kakade, Zaid Harchaoui.
 
 **MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.**  
 Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Welleck, Yejin Choi, Zaid Harchaoui.  
-*NeurIPS 2021. **Outstanding Paper Award** (Top 6 out of 9000 submissions)*.  
+*NeurIPS (2021).*  
+<b><i><mark>NeurIPS Outstanding Paper Award</mark></i></b> *(Top 6 out of 9000 submissions)*.  
 <!-- Previously titled: MAUVE: Human-Machine Divergence Curves for Evaluating Open-Ended Text Generation.   -->
 [PDF](https://arxiv.org/pdf/2102.01454.pdf) &nbsp;
 [Pip-package](https://github.com/krishnap25/mauve) &nbsp;
@@ -137,14 +139,14 @@ Krishna Pillutla, Swabha Swayamdipta, Rowan Zellers, John Thickstun, Sean Wellec
 
 **Divergence Frontiers for Generative Models: Sample Complexity, Quantization Level, and Frontier Integral.**  
 Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui.  
-*NeurIPS 2021*.  
+*NeurIPS (2021)*.  
 [PDF](https://arxiv.org/pdf/2106.07898.pdf) &nbsp; 
 [Code](https://github.com/langliu95/divergence-frontier-bounds) &nbsp;
 [Poster](/papers/2021_mauve-theory-poster.pdf) &nbsp; 
 
 **LLC: Accurate, Multi-purpose Learnt Low-dimensional Binary Codes.**  
 Aditya Kusupati, Matthew Wallingford, Vivek Ramanujan, Raghav Somani, Jae Sung Park, Krishna Pillutla, Prateek Jain, Sham Kakade, Ali Farhadi.  
-*NeurIPS 2021*.  
+*NeurIPS (2021)*.  
 [PDF](https://arxiv.org/pdf/2106.01487.pdf)
 
 
@@ -156,7 +158,7 @@ Yassine Laguel, Krishna Pillutla, Jérôme Malick, Zaid Harchaoui.
 
 **A Superquantile Approach to Federated Learning with Heterogeneous Devices.**  
 Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.  
-*IEEE CISS 2021*.  
+*IEEE CISS (2021)*.  
 <!-- Previously titled: Device Heterogeneity in Federated Learning: A Superquantile Approach.   -->
 [PDF](/papers/2021_Simplicial_FL_CISS.pdf)
 &nbsp;
@@ -166,7 +168,7 @@ Yassine Laguel\*, Krishna Pillutla\*, Jérôme Malick, Zaid Harchaoui.
 
 **A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-*NeurIPS 2018*.  
+*NeurIPS (2018)*.  
 [PDF-long](https://arxiv.org/pdf/1902.03228.pdf) &nbsp;
 [PDF-short](/papers/2018_neurips_smoother.pdf) &nbsp;
 [Code](https://github.com/krishnap25/casimir) &nbsp;
@@ -177,12 +179,12 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 
 **A Markov Chain Theory Approach to Characterizing the Minimax Optimality of Stochastic Gradient Descent (for Least Squares).**  
 Prateek Jain, Sham M. Kakade, Rahul Kidambi, Praneeth Netrapalli, Venkata Krishna Pillutla, Aaron Sidford.  
-*FSTTCS 2017*.  
+*FSTTCS (2017)*.  
 [PDF](https://arxiv.org/pdf/1710.09430.pdf)
 
 **Data Driven Resource Allocation for Distributed Learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
-*AISTATS 2017*.  
+*AISTATS (2017)*.  
 [PDF-long](http://arxiv.org/abs/1512.04848) &nbsp;
 [PDF-short](http://proceedings.mlr.press/v54/dick17a/dick17a.pdf) &nbsp;  
 
