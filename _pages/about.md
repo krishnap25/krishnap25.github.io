@@ -30,6 +30,7 @@ Some highlights from my previous research include:
 ## News
 
 * [June 2024] Invited to give an IEEE Webinar on robust federated learning!
+* [May 2024] Attended ICLR to present papers on [differentially private learning with correlated noise](https://arxiv.org/pdf/2310.06771) and [bias-free distributionally robust learning](https://arxiv.org/pdf/2310.13863.pdf) (Spotlight).
 * [Mar. 2024]  [Paper](https://ieeexplore.ieee.org/document/9721118) on robust federated learning has been identified as one of IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2022 - Sept. 2023!
 * [Feb. 2024] Concluded my time as a visiting researcher (postdoc) at Google Research where I worked on various aspects of differential privacy at the user-level [[final slides](/slides/torwards_user_level_dp.pdf), Papers: [ICLR '24](https://arxiv.org/pdf/2310.06771.pdf), [NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg), [NeurIPS D&B '23](https://arxiv.org/pdf/2307.09619.pdf), [ArXiv '23](https://krishnap25.github.io/)]. I'm grateful to the team for such a wonderful experience!
 * [Dec. 2023] [Paper](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) on _MAUVE Scores for Generative AI_ accepted to JMLR! See the [Project Page](https://krishnap25.github.io/mauve-overview/).
