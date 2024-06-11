@@ -24,12 +24,12 @@ Some highlights from my previous research include:
 
 - evaluating synthetic data generation by LLMs and generative AI [[NeurIPS '21](https://arxiv.org/pdf/2102.01454.pdf) **Outstanding Paper Award**, [JMLR 2023](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf)]: [Project Page](https://krishnap25.github.io/mauve-overview/)
 - differentially private learning, including optimization [[ICLR '24](https://arxiv.org/pdf/2310.06771.pdf)], auditing [[NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg)], datasets [[NeurIPS '23](https://arxiv.org/pdf/2307.09619.pdf)], and LLM privacy attacks [[ArXiv '23](https://krishnap25.github.io/)]
-- robust aggregation for federated learning [FL-ICML '20 Long Oral, [TSP '22](https://ieeexplore.ieee.org/document/9721118) **Top 25 Downloaded Arictle**]
+- robust aggregation for federated learning [FL-ICML '20 Long Oral, [TSP '22](https://ieeexplore.ieee.org/document/9721118) **Top 25 Downloaded Article**]
 - distributionally robust and differentially private federated learning [DistShift-NeurIPS '22 Spotlight, [MLJ '23](https://link.springer.com/article/10.1007/s10994-023-06332-x), AISTATS 2023, ICLR 2024 Spotlight]: [Project Page](https://krishnap25.github.io/simplicial-fl-overview/)  
 
 ## News
 
-* [June 2024] Invited to give an IEEE Webinar on robust federated learning!
+* [June 2024] Gave an invited IEEE Webinar on robust federated learning ([Slides](/slides/rfa_webinar.pdf))!
 * [May 2024] Attended ICLR to present papers on [differentially private learning with correlated noise](https://arxiv.org/pdf/2310.06771) and [bias-free distributionally robust learning](https://arxiv.org/pdf/2310.13863.pdf) (Spotlight).
 * [Mar. 2024]  [Paper](https://ieeexplore.ieee.org/document/9721118) on robust federated learning has been identified as one of IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2022 - Sept. 2023!
 * [Feb. 2024] Concluded my time as a visiting researcher (postdoc) at Google Research where I worked on various aspects of differential privacy at the user-level [[final slides](/slides/torwards_user_level_dp.pdf), Papers: [ICLR '24](https://arxiv.org/pdf/2310.06771.pdf), [NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg), [NeurIPS D&B '23](https://arxiv.org/pdf/2307.09619.pdf), [ArXiv '23](https://krishnap25.github.io/)]. I'm grateful to the team for such a wonderful experience!
