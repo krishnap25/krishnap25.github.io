@@ -13,7 +13,7 @@ Professional and departmental academic service.
 Local Organizer  
 
 **Mini-symposium on Federated Learning at ICCOPT 2022** 
-[Conference Webpabe](https://iccopt2022.lehigh.edu/)  
+[Conference Webpage](https://iccopt2022.lehigh.edu/)  
 Main Organizer
 
 ### Reviewing
