@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Krishna Pillutla"
 title_separator          : "-"
 name                     : &name "Krishna Pillutla"
-description              : &description "Machine learning researcher"
+description              : &description "Assistant Professor in ML&AI"
 url                      : https://krishnap25.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnap25/krishnap25.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Krishna Pillutla"
   avatar           : "pic2.jpg"
-  bio              : "Machine learning researcher"
+  bio              : "Assistant Professor in ML/AI"
   location         :
-  employer         : "University of Washington"
+  employer         : "IIT Madras"
   googlescholar    : 
-  email            : "pillutla@cs.washington.edu"
+  email            : "krishnap@dsai.iitm.ac.in"
   uri              :
   bitbucket        :
   codepen          :
