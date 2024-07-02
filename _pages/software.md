@@ -22,7 +22,7 @@ Distributionally robust learning in PyTorch with 1 additional line of code. Inst
 [**Geom-Median**](https://github.com/krishnap25/geom_median)  
 Fast and Differentiable Geometric Median in PyTorch and NumPy. Install as `pip install geom-median`. 
 
-[**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/))  
+[**Casimir**](https://github.com/krishnap25/casimir) ([Documentation](https://krishnap25.github.io/casimir/))  
 A toolbox of selected optimization algorithms for unstructured tasks such as binary classification, and structured prediction tasks such as visual object localization and named entity recognition.
 
 [**RFA**](https://github.com/google-research/federated/tree/master/robust_aggregation)
