@@ -5,7 +5,7 @@ redirect_from:
   - /talks.html
 ---
 
-* Robust Aggregation for Federated Learning (<a href="/slides/rfa_webinar.pdf">slides</a>), **IEEE Webinar**, June 2024.
+* Robust Aggregation for Federated Learning (<a href="/slides/rfa_webinar.pdf">slides</a> &nbsp; [recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022)), **IEEE Webinar**, June 2024.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **IIT Hyderabad**, April 2024.
 * Correlated Noise Provably Beats Independent Noise for Differentially Private Learning (<a href="/slides/dpftrl_dynamics.pdf">slides</a>), **Laboratoire Jean Kuntzmann, UGA** (Grenoble, France), February 2024.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **Google Federated Learning Seminar** (<b><mark>Postdoc final presentation</mark></b>), February 2024.
