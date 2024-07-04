@@ -123,7 +123,8 @@ Krishna Pillutla, Sham Kakade, Zaid Harchaoui.
 [Code (TensorFlow)](https://github.com/krishnap25/RFA) &nbsp;
 [Code (PyTorch)](https://github.com/krishnap25/tRFA) &nbsp; 
 [Talk video](https://www.youtube.com/watch?v=-wNV8pbMNQk) &nbsp;
-[Poster](/papers/2022_rfa_poster.pdf) 
+[Poster](/papers/2022_rfa_poster.pdf) &nbsp; 
+[Webinar](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022)  
 
 
 **MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers.**  
