@@ -8,7 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-I have been a teaching assistant for
+Teaching at IIT Madras:
+* DA 5001 / DA 6400: Privacy in AI, [July-Nov 2024](https://krishnap25.github.io/privAI_course_2024o/)
+
+
+During my PhD, I have also been a teaching assistant for
 
 * DATA 598, Statistical Learning via Differentiable Programming, Winter 2021 and 2022, UW
 * [CSE 599M](https://courses.cs.washington.edu/courses/cse599m/19sp/), Reinforcement Learning and Bandits, Spring 2019, UW
