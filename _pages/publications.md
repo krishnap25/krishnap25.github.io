@@ -13,10 +13,10 @@ redirect_from:
 
 ## Working Papers
 
-**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy.**  
-Krishnamurthy Dvijotham, H. Brendan McMahan, Krishna Pillutla, Thomas Steinke, Abhradeep Thakurta.  
+**Fine-Tuning Large Language Models with User-Level Differential Privacy.**  
+Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, Krishna Pillutla, Keith Rush.  
 *Submitted (2024)*.  
-[PDF](https://arxiv.org/pdf/2404.16706)  &nbsp;  
+[PDF](https://arxiv.org/pdf/2407.07737)  &nbsp;
 
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
@@ -24,6 +24,12 @@ Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Cho
 [PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
 
 ## Conference and Journal Publications
+
+**Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy.**  
+Krishnamurthy Dvijotham, H. Brendan McMahan, Krishna Pillutla, Thomas Steinke, Abhradeep Thakurta.  
+*FOCS (2024)*.  
+Also presented at *TPDP (2024). **Oral Presentation***.  
+[PDF](https://arxiv.org/pdf/2404.16706)  &nbsp;  
 
 **Correlated Noise Provably Beats Independent Noise for Differentially Private Learning.**  
 Christopher Choquette-Choo\*, Krishnamurthy Dvijotham\*, Krishna Pillutla\*, Arun Ganesh, Thomas Steinke, Abhradeep Thakurta.    
