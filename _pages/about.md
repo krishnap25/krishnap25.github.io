@@ -22,13 +22,14 @@ Contact me at [my-first-name][my-last-initial] @ dsai [dot] iitm [dot] ac [dot] 
 
 Some highlights from my previous research include:
 
-- evaluating synthetic data generation by LLMs and generative AI [[NeurIPS '21](https://arxiv.org/pdf/2102.01454.pdf) **Outstanding Paper Award**, [JMLR 2023](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf)]: [Project Page](https://krishnap25.github.io/mauve-overview/)
-- differentially private learning, including optimization [[ICLR '24](https://arxiv.org/pdf/2310.06771.pdf)], auditing [[NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg)], datasets [[NeurIPS '23](https://arxiv.org/pdf/2307.09619.pdf)], and LLM privacy attacks [[ArXiv '23](https://krishnap25.github.io/)]
+- evaluating synthetic data generation by LLMs and generative AI [[NeurIPS '21](https://arxiv.org/pdf/2102.01454.pdf) **Outstanding Paper Award**, [JMLR 2023](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) **Best Papers Track**]: [Project Page](https://krishnap25.github.io/mauve-overview/)
+- differentially private learning, including optimization [[ICLR '24](https://arxiv.org/pdf/2310.06771.pdf), [FOCS '24](https://arxiv.org/pdf/2404.16706)], auditing [[NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg)], datasets [[NeurIPS '23](https://arxiv.org/pdf/2307.09619.pdf)], and LLM privacy attacks [[ArXiv '23](https://krishnap25.github.io/)]
 - robust aggregation for federated learning [FL-ICML '20 Long Oral, [TSP '22](https://ieeexplore.ieee.org/document/9721118) **Top 25 Downloaded Article**]
 - distributionally robust and differentially private federated learning [DistShift-NeurIPS '22 Spotlight, [MLJ '23](https://link.springer.com/article/10.1007/s10994-023-06332-x), AISTATS 2023, ICLR 2024 Spotlight]: [Project Page](https://krishnap25.github.io/simplicial-fl-overview/)  
 
 ## News
 
+* [July 2024] [Paper](https://arxiv.org/pdf/2404.16706) on efficient and near-optimal correlated noise mechanisms for streaming DP has been accepted to FOCS 2024 and an oral presentation at TPDP 2024!
 * [June 2024] Gave an invited [IEEE Webinar](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022) on robust federated learning ([Slides](/slides/rfa_webinar.pdf) [Recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022))!
 * [May 2024] Attended ICLR to present papers on [differentially private learning with correlated noise](https://arxiv.org/pdf/2310.06771) and [bias-free distributionally robust learning](https://arxiv.org/pdf/2310.13863.pdf) (Spotlight).
 * [Mar. 2024]  [Paper](https://ieeexplore.ieee.org/document/9721118) on robust federated learning has been identified as one of IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2022 - Sept. 2023!
