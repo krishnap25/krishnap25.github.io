@@ -29,6 +29,7 @@ Some highlights from my previous research include:
 
 ## News
 
+* [October 2024] Invited talk at 1st International Conference on Responsible AI for Healthcare ([webpage](https://www.responsibleaihull.com/events/responsibleai-chennai))!
 * [July 2024] [Paper](https://arxiv.org/pdf/2404.16706) on efficient and near-optimal correlated noise mechanisms for streaming DP has been accepted to FOCS 2024 and an oral presentation at TPDP 2024!
 * [June 2024] Gave an invited [IEEE Webinar](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022) on robust federated learning ([Slides](/slides/rfa_webinar.pdf) [Recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022))!
 * [May 2024] Attended ICLR to present papers on [differentially private learning with correlated noise](https://arxiv.org/pdf/2310.06771) and [bias-free distributionally robust learning](https://arxiv.org/pdf/2310.13863.pdf) (Spotlight).
