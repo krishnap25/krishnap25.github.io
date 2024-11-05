@@ -18,12 +18,12 @@ Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, 
 *Submitted (2024)*.  
 [PDF](https://arxiv.org/pdf/2407.07737)  &nbsp;
 
+## Conference and Journal Publications
+
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
-*Submitted (2023)*.  
+*EMNLP (2024) **Oral Presentation**.*
 [PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
-
-## Conference and Journal Publications
 
 **Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy.**  
 Krishnamurthy Dvijotham, H. Brendan McMahan, Krishna Pillutla, Thomas Steinke, Abhradeep Thakurta.  
