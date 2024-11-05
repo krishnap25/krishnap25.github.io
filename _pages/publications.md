@@ -63,6 +63,7 @@ Also presented at *[FL@ICML (2023)](https://fl-icml2023.github.io/), [TPDP (2023
 [PDF](https://arxiv.org/pdf/2305.18447.pdf)  &nbsp;
 [Poster](/papers/2023_auditing-lidp-poster.pdf) &nbsp;
 [Code](https://github.com/google-research/federated/tree/master/lidp_auditing) &nbsp;
+[Software (pip)](https://pypi.org/project/xbern-confidence-intervals/) &nbsp;
 
 **Towards Federated Foundation Models: Scalable Dataset Pipelines for Group-Structured Learning.**  
 Zachary Charles\*, Nicole Mitchell\*, Krishna Pillutla\*, Michael Reneer, Zachary Garrett.    
