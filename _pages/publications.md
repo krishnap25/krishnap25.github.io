@@ -22,7 +22,7 @@ Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, 
 
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
-*EMNLP (2024) **Oral Presentation**.*
+*EMNLP (2024) **Oral Presentation**.*  
 [PDF](https://arxiv.org/pdf/2310.09266.pdf)  &nbsp;
 
 **Efficient and Near-Optimal Noise Generation for Streaming Differential Privacy.**  
