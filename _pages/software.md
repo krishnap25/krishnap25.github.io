@@ -7,7 +7,14 @@ redirect_from:
 
 ## Packages
 
-[**Dataset Grouper**](https://github.com/google-research/dataset_grouper)
+[**XBern Confidence Intervals**](https://github.com/krishnap25/xbern_confidence_intervals/)   
+An XBern or exchangeable Bernoulli distribution is a probability distribution over binary vectors which is exchangeable, i.e., the probability mass does not change when the coordinates of the vector are permuted. This package gives confidence intervals for the mean of the XBern distribution.
+
+For n binary vectors in k-dimensions, the confidence interval could vary from 1 / sqrt(n) (if the k dimensions are copies of each other) to 1 / sqrt(nk) (if the k dimensions are independent). This software gives adaptive confidence intervals yielding 1 / sqrt(n) intervals in high correlation and automatically improving to 1 / sqrt(nk) + 1 / n^{3/4} when correlations are low.
+
+Install as `pip install xbern-confidence-intervals`.
+
+[**Dataset Grouper**](https://github.com/google-research/dataset_grouper)  
 A scalable library to create, write, and iterate over group-partitioned (i.e. federated) datasets.
 It allows the creation of federated datasets suitable for pretraining and finetuning large language models.
 Install as `pip install dataset-grouper`.
