@@ -29,12 +29,15 @@ Some highlights from my previous research include:
 
 ## News
 
+* [December 2024] I'm grateful to receive the [Google India Research Award](https://research.google/programs-and-events/google-india-research-awards/)!
 * [November 2024] Paper on [user inference attacks for LLMs](https://arxiv.org/pdf/2310.09266.pdf) accepted for an _oral presentation_ at EMNLP 2024!
-* [October 2024] Invited talk at 1st International Conference on Responsible AI for Healthcare ([webpage](https://www.responsibleaihull.com/events/responsibleai-chennai))!
+* [October 2024] Invited talk at 1st International Conference on Responsible AI for Healthcare ([webpage](https://www.responsibleaihull.com/events/responsibleai-chennai)) and at the National AI in Healthcare symposium ([webpage](https://sunpharmasciencefoundation.net/event/read_more/16))!
 * [July 2024] [Paper](https://arxiv.org/pdf/2404.16706) on efficient and near-optimal correlated noise mechanisms for streaming DP has been accepted to FOCS 2024 and an oral presentation at TPDP 2024!
 * [June 2024] Gave an invited [IEEE Webinar](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022) on robust federated learning ([Slides](/slides/rfa_webinar.pdf) [Recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022))!
 * [May 2024] Attended ICLR to present papers on [differentially private learning with correlated noise](https://arxiv.org/pdf/2310.06771) and [bias-free distributionally robust learning](https://arxiv.org/pdf/2310.13863.pdf) (Spotlight).
+* [May 2024] I joined IIT Madras as an assistant professor! Here are the [slides](https://krishnap25.github.io/slides/2023_job_talk.pdf) I used for my job talk. I am happy to make other job application material upon request.
 * [Mar. 2024]  [Paper](https://ieeexplore.ieee.org/document/9721118) on robust federated learning has been identified as one of IEEE Signal Processing Society’s top 25 downloaded articles from Sept. 2022 - Sept. 2023!
 * [Feb. 2024] Concluded my time as a visiting researcher (postdoc) at Google Research where I worked on various aspects of differential privacy at the user-level [[final slides](/slides/torwards_user_level_dp.pdf), Papers: [ICLR '24](https://arxiv.org/pdf/2310.06771.pdf), [NeurIPS '23](https://openreview.net/pdf?id=mlbes5TAAg), [NeurIPS D&B '23](https://arxiv.org/pdf/2307.09619.pdf), [ArXiv '23](https://krishnap25.github.io/)]. I'm grateful to the team for such a wonderful experience!
 * [Dec. 2023] [Paper](https://www.jmlr.org/papers/volume24/23-0023/23-0023.pdf) on _MAUVE Scores for Generative AI_ accepted to JMLR (Best Papers Track)! See the [Project Page](https://krishnap25.github.io/mauve-overview/).
 * [Jan. 2023] [Paper](https://link.springer.com/article/10.1007/s10994-023-06332-x) on _Differentially Private Superquantile Aggregation for Federated Learning_ accepted to the Machine Learning Journal! See the [Project Page](https://krishnap25.github.io/simplicial-fl-overview/).
+* [Jun. 2022] I defended my PhD! My [dissertation](https://krishnap25.github.io/papers/phd_dissertation_kpillutla.pdf) and the [defense slides](https://krishnap25.github.io/slides/defense.pdf) are available online.
