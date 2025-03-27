@@ -16,9 +16,9 @@ Teaching at IIT Madras:
 During my PhD, I have also been a teaching assistant for
 
 * DATA 598, Statistical Learning via Differentiable Programming, Winter 2021 and 2022, UW
-* <u> [CSE 599M](https://courses.cs.washington.edu/courses/cse599m/19sp/) </u>, Reinforcement Learning and Bandits, Spring 2019, UW
-* <u> [CSE 547](https://courses.cs.washington.edu/courses/cse547/18sp/) </u>, Machine Learning for Big Data, Spring 2018, UW
+* [<u>CSE 599M</u>](https://courses.cs.washington.edu/courses/cse599m/19sp/), Reinforcement Learning and Bandits, Spring 2019, UW
+* [<u>CSE 547</u>](https://courses.cs.washington.edu/courses/cse547/18sp/), Machine Learning for Big Data, Spring 2018, UW
 
 Other teaching/pedagogical activity:
 
-* Tutorial on transformer models: [Link](https://docs.google.com/presentation/d/1GC0PwHVUboCOLhMgFKQhXtg59qC-EERZuhcpMwP9lFM/edit?usp=sharing&resourcekey=0--R645vuTlaWWSMfbAix_zA)
+* Tutorial on transformer models: [<u>Link</u>](https://docs.google.com/presentation/d/1GC0PwHVUboCOLhMgFKQhXtg59qC-EERZuhcpMwP9lFM/edit?usp=sharing&resourcekey=0--R645vuTlaWWSMfbAix_zA)
