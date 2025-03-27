@@ -10,7 +10,7 @@ redirect_from:
 
 Teaching at IIT Madras:
 * DA 7450: Topics in AI Privacy, Jan-May 2025
-* DA 5001 / DA 6400: Privacy in AI, <u> [July-Nov 2024](https://krishnap25.github.io/privAI_course_2024o/) </u>
+* DA 5001 / DA 6400: Privacy in AI,  [<u>July-Nov 2024</u>](https://krishnap25.github.io/privAI_course_2024o/) 
 
 
 During my PhD, I have also been a teaching assistant for
