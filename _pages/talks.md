@@ -5,6 +5,10 @@ redirect_from:
   - /talks.html
 ---
 
+* Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
+* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="/slides/near_optimal_correlated_noise.pdf">slides</a>), [**BIRS Workshop on ML & Statistics**](https://workshops.birs.ca/events/25w5389/schedule) (CMI, Chennai), January 2025.
+* Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>, **National Symposium on AI in Healthcare** (IIT Jodhpur), November 2024.
+* Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>, **GenAI in Cybersecurity Symposium** (MeitY/DSCI), October 2024.
 * Robust Aggregation for Federated Learning (<a href="/slides/rfa_webinar.pdf">slides</a> &nbsp; [recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022)), **IEEE Webinar**, June 2024.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **IIT Hyderabad**, April 2024.
 * Correlated Noise Provably Beats Independent Noise for Differentially Private Learning (<a href="/slides/dpftrl_dynamics.pdf">slides</a>), **Laboratoire Jean Kuntzmann, UGA** (Grenoble, France), February 2024.
