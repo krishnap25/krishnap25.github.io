@@ -5,7 +5,7 @@ redirect_from:
   - /talks.html
 ---
 
-* Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
+* Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
 * Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="/slides/near_optimal_correlated_noise.pdf">slides</a>), [**BIRS Workshop on ML & Statistics**](https://workshops.birs.ca/events/25w5389/schedule) (CMI, Chennai), January 2025.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **National Symposium on AI in Healthcare** (IIT Jodhpur), November 2024.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **GenAI in Cybersecurity Symposium** (MeitY/DSCI), October 2024.
