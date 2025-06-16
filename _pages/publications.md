@@ -16,7 +16,7 @@ redirect_from:
 **Correlated Noise Mechanisms for Differentially Private Learning.**   
 Krishna Pillutla, Jalaj Upadhyay, Christopher Choquette-Choo, Krishnamurthy Dvijotham, Arun Ganesh, Monika Henzinger, Jonathan Katz, Ryan McKenna, H. Brendan McMahan, Keith Rush, Thomas Steinke, Abhradeep Thakurta.  
 *2025*.  
-[PDF](https://arxiv.org/pdf/2504.21413)  &nbsp;
+[PDF](https://arxiv.org/pdf/2506.08201)  &nbsp;
 
 
 ## Working Papers
