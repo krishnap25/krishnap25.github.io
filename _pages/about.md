@@ -29,9 +29,9 @@ Some highlights from my previous research include:
 
 ## News
 
-* [June 2024] Thrilled to announce the release of our **[monograph](https://arxiv.org/pdf/2506.08201)** on correlated noise mechanisms for differentially private learning! This tutorial is a deep dive into a fascinating area with several exciting open questions. Co-authored with Jalaj Upadhyay and other amazing collaborators from academia and industry. Comments are welcome!
-* [June 2024] I'm honoured to be selected as the Narayanan Family Foundation Fellow! A [faculty fellowship](https://joyofgiving.alumni.iitm.ac.in/theme/bs/images/IIT_Madras_Faculty_Fellow_Program_Modified.pdf) at IIT Madras is roughly equivalent to an endowed chair position for assistant professors.
-* [December 2024] I'm grateful to receive the [Google India Research Award](https://research.google/programs-and-events/google-india-research-awards/)!
+* [June 2025] Thrilled to announce the release of our **[monograph](https://arxiv.org/pdf/2506.08201)** on **correlated noise mechanisms for differentially private learning**! This tutorial is a deep dive into a fascinating area with several exciting open questions. Co-authored with Jalaj Upadhyay and other amazing collaborators from academia and industry. Comments are welcome!
+* [June 2025] I'm honoured to be selected as the **Narayanan Family Foundation Fellow**! A [faculty fellowship](https://joyofgiving.alumni.iitm.ac.in/theme/bs/images/IIT_Madras_Faculty_Fellow_Program_Modified.pdf) at IIT Madras is roughly equivalent to an endowed chair position for assistant professors.
+* [December 2024] I'm grateful to receive the **[Google India Research Award](https://research.google/programs-and-events/google-india-research-awards/)**!
 * [November 2024] Paper on [user inference attacks for LLMs](https://arxiv.org/pdf/2310.09266.pdf) accepted for an _oral presentation_ at EMNLP 2024!
 * [October 2024] Invited talk at 1st International Conference on Responsible AI for Healthcare ([webpage](https://www.responsibleaihull.com/events/responsibleai-chennai)) and at the National AI in Healthcare symposium ([webpage](https://sunpharmasciencefoundation.net/event/read_more/16))!
 * [July 2024] [Paper](https://arxiv.org/pdf/2404.16706) on efficient and near-optimal correlated noise mechanisms for streaming DP has been accepted to FOCS 2024 and an oral presentation at TPDP 2024!
