@@ -11,14 +11,27 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+## Monograph
+
+**Correlated Noise Mechanisms for Differentially Private Learning.**   
+Krishna Pillutla, Jalaj Upadhyay, Christopher Choquette-Choo, Krishnamurthy Dvijotham, Arun Ganesh, Monika Henzinger, Jonathan Katz, Ryan McKenna, H. Brendan McMahan, Keith Rush, Thomas Steinke, Abhradeep Thakurta.  
+*2025*.  
+[PDF](https://arxiv.org/pdf/2504.21413)  &nbsp;
+
+
 ## Working Papers
+
+**An Inversion Theorem for Buffered Linear Toeplitz (BLT) Matrices and Applications to Streaming Differential Privacy.**  
+Brendan McMahan, Krishna Pillutla.  
+*ArXiv (2025)*.  
+[PDF](https://arxiv.org/pdf/2504.21413)  &nbsp;
+
+## Conference and Journal Publications
 
 **Fine-Tuning Large Language Models with User-Level Differential Privacy.**  
 Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, Krishna Pillutla, Keith Rush.  
-*Submitted (2024)*.  
+*SaTML (2025)*.  
 [PDF](https://arxiv.org/pdf/2407.07737)  &nbsp;
-
-## Conference and Journal Publications
 
 **User Inference Attacks on Large Language Models.**  
 Nikhil Kandpal, Krishna Pillutla, Alina Oprea, Peter Kairouz, Christopher A. Choquette-Choo, Zheng Xu.  
