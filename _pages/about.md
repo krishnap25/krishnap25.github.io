@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor at the [Wadhwani School of Data Science & AI](https://wsai.iitm.ac.in/) and a principal investigator at the Centre for Responsible AI ([CeRAI](https://cerai.iitm.ac.in/)) at **IIT Madras**. 
+I'm an assistant professor and the Narayanan Family Foundation Fellow at the [Wadhwani School of Data Science & AI](https://wsai.iitm.ac.in/) and a principal investigator at the Centre for Responsible AI ([CeRAI](https://cerai.iitm.ac.in/)) at **IIT Madras**. 
 My group studies the theory and practice of ML & AI, focusing on privacy-preserving and robust learning of LLMs and generative AI, with applications to healthcare and public good.
 
 Previously, I was a visiting researcher (postdoc) at Google Research in the Federated Learning team. I obtained my PhD from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the **University of Washington**,
@@ -29,6 +29,8 @@ Some highlights from my previous research include:
 
 ## News
 
+* [June 2024] Thrilled to announce the release of our **[monograph](https://arxiv.org/pdf/2506.08201)** on correlated noise mechanisms for differentially private learning! This tutorial is a deep dive into a fascinating area with several exciting open questions.
+* [June 2024] I'm honoured to be selected as the Narayanan Family Foundation Fellow! A [faculty fellowship](https://joyofgiving.alumni.iitm.ac.in/theme/bs/images/IIT_Madras_Faculty_Fellow_Program_Modified.pdf) at IIT Madras is roughly equivalent to an endowed chair position for assistant professors.
 * [December 2024] I'm grateful to receive the [Google India Research Award](https://research.google/programs-and-events/google-india-research-awards/)!
 * [November 2024] Paper on [user inference attacks for LLMs](https://arxiv.org/pdf/2310.09266.pdf) accepted for an _oral presentation_ at EMNLP 2024!
 * [October 2024] Invited talk at 1st International Conference on Responsible AI for Healthcare ([webpage](https://www.responsibleaihull.com/events/responsibleai-chennai)) and at the National AI in Healthcare symposium ([webpage](https://sunpharmasciencefoundation.net/event/read_more/16))!
