@@ -28,6 +28,11 @@ Brendan McMahan, Krishna Pillutla.
 
 ## Conference and Journal Publications
 
+**InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy.**  
+Vishnu Vinod, Krishna Pillutla, Abhradeep Guha Thakurta.  
+*NeurIPS (2025)*.  
+[PDF])(https://arxiv.org/pdf/2507.02974)  &nbsp;
+
 **Fine-Tuning Large Language Models with User-Level Differential Privacy.**  
 Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, Krishna Pillutla, Keith Rush.  
 *SaTML (2025)*.  
