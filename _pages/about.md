@@ -29,6 +29,7 @@ Some highlights from my previous research include:
 
 ## News
 
+* [October 2025] Excited to announce that the first student paper from my IITM group has been accepted to NeurIPS 2025! Congrats to [Vishnu](https://in.linkedin.com/in/vishnuvind), who shows how to use LLMs to generate synthetic text at scale with differential privacy guarantees, using 10x less computational cost than prior work. Joint work with Abhradeep Thakurta.
 * [June 2025] Thrilled to announce the release of our **[monograph](https://arxiv.org/pdf/2506.08201)** on **correlated noise mechanisms for differentially private learning**! This tutorial is a deep dive into a fascinating area with several exciting open questions. Co-authored with Jalaj Upadhyay and other amazing collaborators from academia and industry. Comments are welcome!
 * [June 2025] I'm honoured to be selected as the **Narayanan Family Foundation Fellow**! A [faculty fellowship](https://joyofgiving.alumni.iitm.ac.in/theme/bs/images/IIT_Madras_Faculty_Fellow_Program_Modified.pdf) at IIT Madras is roughly equivalent to an endowed chair position for assistant professors.
 * [December 2024] I'm grateful to receive the **[Google India Research Award](https://research.google/programs-and-events/google-india-research-awards/)**!
