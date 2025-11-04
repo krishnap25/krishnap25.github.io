@@ -7,7 +7,7 @@ redirect_from:
 
 **Note to prospective students**: Please read this note before reaching out.
 
-### Current
+## Current
 
 **MS/PhD and Post-Bacc Fellows**:  
 [Kaushik Doddamani](https://in.linkedin.com/in/kaushik-doddamani) (MS by research)  
@@ -22,7 +22,7 @@ Arun Ramaswamy (Post-Bacc Fellow). Prev: IIT Madras (BTech CSE) & Amazon
 Pradip Raj (MTech)  
 P. Sushanth Reddy (DDP)  
 
-### Alumni
+## Alumni
 
 [Ishita Khatri](https://in.linkedin.com/in/ishita-khatri-6700aa213) Dual Degree 2025. Next position: Pre-doc @ IIT Bombay  
 [Vinitha Chincholi](https://in.linkedin.com/in/vinithachincholi) Intern, Summer 2025
