@@ -8,6 +8,10 @@ Professional and departmental academic service.
 
 ### Workshop and Conference Organization
 
+**AAAI Depolyable AI Workshop**
+Webpage: [2026](https://dai-workshop.github.io/) [2025](https://sites.google.com/view/dai-2025)
+Co-Organizer
+
 **IFDS Workshop on Distributional Robustness in Data Science**
 [Workshop Webpage](https://ifds-tripods.github.io/drds-workshop-2022/)  
 Local Organizer  
