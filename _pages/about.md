@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 I'm an assistant professor and the Narayanan Family Foundation Fellow at the [Wadhwani School of Data Science & AI](https://wsai.iitm.ac.in/) and a principal investigator at the Centre for Responsible AI ([CeRAI](https://cerai.iitm.ac.in/)) at **IIT Madras**. 
-My group studies the theory and practice of ML & AI, focusing on privacy-preserving and robust learning of LLMs and generative AI, with applications to healthcare and public good.
+My group studies the theory and practice of ML & AI, focusing on privacy-preserving and robust learning/inference of LLMs and generative AI, with applications to healthcare and public good.
 
 Previously, I was a visiting researcher (postdoc) at Google Research in the Federated Learning team. I obtained my PhD from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the **University of Washington**,
 where I was fortunate to be advised by [Zaid Harchaoui](http://faculty.washington.edu/zaid/) and [Sham Kakade](https://sham.seas.harvard.edu/).
-Before that, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my Master's at **Carnegie Mellon University** and received an undergraduate degree from IIT Bombay.
+Before that, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my Master's at **Carnegie Mellon University** and received an undergraduate degree from **IIT Bombay**.
 
 My research has been recognized by [a NeurIPS outstanding paper award](https://news.cs.washington.edu/2022/02/28/allen-school-and-ai2-researchers-paint-the-neurips-conference-mauve-and-take-home-an-outstanding-paper-award/) and I was a 2019-20 [J.P. Morgan PhD Fellow](https://www.jpmorgan.com/country/US/en/technology/ai/awards/phd-fellowship-award-recipients).
 
