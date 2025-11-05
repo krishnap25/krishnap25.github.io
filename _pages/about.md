@@ -18,6 +18,8 @@ My research has been recognized by [a NeurIPS outstanding paper award](https://n
 
 Contact me at [my-first-name][my-last-initial] @ dsai [dot] iitm [dot] ac [dot] in.
 
+**Interested in joining us?** See [here](/prospective).
+
 ## Research highlights
 
 Some highlights from my previous research include:
