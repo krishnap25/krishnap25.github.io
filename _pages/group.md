@@ -5,7 +5,7 @@ redirect_from:
   - /group.html
 ---
 
-**Note to prospective students**: Please read this note before reaching out.
+**Note to prospective students**: Please see [this page](/prospective).
 
 ## Current
 
