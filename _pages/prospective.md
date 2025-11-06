@@ -74,14 +74,14 @@ In case you do not hear back, please feel free to follow up, but please allow at
 
 ## What is my advising style? 
 
-I'm in academia precisely for the joy and privilege of mentoring students and junior researchers.
+I'm in academia primarily for the joy and privilege of mentoring students and junior researchers.
 
-I take my role as a mentor very seriously and invest a lot of time to train and educate my students and ensure their all-round growth, 
+I take my role as a mentor very seriously and invest a lot of time to train and educate my students and ensure their all-round growth (and well-being), 
 providing both technical support (like brainstorming research problems/directions or working through some proofs/debugging) 
 and non-technical support (like career advice). 
 The process typically involves developing lower-level skills like executing on regular experiments/proofs and improving at writing/presentations to begin with, 
 and moving on to develop higher-level skills like identifying/forecasting timely and impactful research directions, and moving towards full independence.
-My objective is to nurture research leaders who can think about, develop, and lead independent research agendas.
+My objective is to nurture research leaders who can think about, develop, and lead independent and thoughtful research agendas.
 
 I expect a similar serious commitment in return, with hardwork and a sincere commitment to excellence and learning.
 You should be self-motivated and driven, and take ownership of your projects.
@@ -89,9 +89,9 @@ They will be as successful and impactful as you push them to be ---
 I will assist, guide, and help on each step of the way but most of the effort should come from you. 
 
 You will likely be out of your comfort zone often. For example, I may let you figure issues out by yourself without giving the answer directly
-(assuming I know it). Similarly, I value your overall long-term growth instead, but that might lead to slower near-term progress.
+(assuming I even know it). Similarly, I value your overall long-term growth, but that might lead to slower near-term progress.
 
-In summary, I expect the overall journey to be intense, but incredibly rewarding with lots of learning.
+In summary, I expect the overall journey to be intense, but incredibly rewarding and fun with lots of learning.
 
 
 
