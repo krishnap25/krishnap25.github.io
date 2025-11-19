@@ -26,6 +26,8 @@ Historically, prior degrees in ML/AI, CS, EE/ECE/EECS, data science/statistics, 
 Further, we only have full-time in-person positions (with some flexibility around working from home). We do not have any part-time or fully remote opportunities.
 We support medium-to-long-term engagement (1 year or more): good research takes time and there are no shortcuts.
 
+Our research is generously funded by [ANRF](https://anrfonline.in/ANRF/HomePage) (the Indian equivalent of the NSF), [Schmidt Sciences](https://www.forbes.com/sites/michaeltnietzel/2025/11/05/schmidt-sciences-announces-its-latest-cohort-of--ai2050-fellows/), [Google](https://research.google/programs-and-events/featured-research-collaborations/google-india-research-awards-recipients/), as well as startup funds and cloud credits from WSAI and IITM.
+
 **MS/PhD (by research)**  
 I am looking to hire 1-2 strong and self-motivated fully-funded PhD students.
 Interested students need to first be admitted to the department of Data Science & AI at IITM. You can apply at [https://research.iitm.ac.in](https://research.iitm.ac.in). 
