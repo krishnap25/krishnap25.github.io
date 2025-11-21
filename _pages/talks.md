@@ -5,6 +5,10 @@ redirect_from:
   - /talks.html
 ---
 
+* Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **Computer Systems and Machine Learning Workshop @ IISc**, November 2025.
+* Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **WSAI Faculty Talks @ IITM**, September 2025.
+* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>), **TIFR**, July 2025.
+* InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy. **Microsoft Research**, June 2025.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
 * Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="/slides/near_optimal_correlated_noise.pdf">slides</a>), [**BIRS Workshop on ML & Statistics**](https://workshops.birs.ca/events/25w5389/schedule) (CMI, Chennai), January 2025.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **National Symposium on AI in Healthcare** (IIT Jodhpur), November 2024.
