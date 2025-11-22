@@ -5,15 +5,15 @@ redirect_from:
   - /talks.html
 ---
 
-* Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **Computer Systems and Machine Learning Workshop @ IISc**, November 2025.
+* Towards Provably Privacy-Preserving AI in the Age of Foundation Models ([recording](https://www.youtube.com/watch?v=ZE-8UwpbCws)), **[CSML Workshop](https://events.csa.iisc.ac.in/futurecomputing2025/) @ IISc**, November 2025.
 * Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **WSAI Faculty Talks @ IITM**, September 2025.
-* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>), **TIFR**, July 2025.
+* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>, &nbsp;  [recording](https://www.youtube.com/watch?v=ip-bkyeGQGQ)), **TIFR**, July 2025.
 * InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy. **Microsoft Research**, June 2025.
-* Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
+* Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **STCS Seminar IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
 * Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="/slides/near_optimal_correlated_noise.pdf">slides</a>), [**BIRS Workshop on ML & Statistics**](https://workshops.birs.ca/events/25w5389/schedule) (CMI, Chennai), January 2025.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **National Symposium on AI in Healthcare** (IIT Jodhpur), November 2024.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **GenAI in Cybersecurity Symposium** (MeitY/DSCI), October 2024.
-* Robust Aggregation for Federated Learning (<a href="/slides/rfa_webinar.pdf">slides</a> &nbsp; [recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022)), **IEEE Webinar**, June 2024.
+* Robust Aggregation for Federated Learning (<a href="/slides/rfa_webinar.pdf">slides</a>, &nbsp; [recording](https://rc.signalprocessingsociety.org/education/webinars/spsweb24022)), **IEEE Webinar**, June 2024.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **IIT Hyderabad**, April 2024.
 * Correlated Noise Provably Beats Independent Noise for Differentially Private Learning (<a href="/slides/dpftrl_dynamics.pdf">slides</a>), **Laboratoire Jean Kuntzmann, UGA** (Grenoble, France), February 2024.
 * Towards User-Level Differential Privacy at Scale (<a href="/slides/torwards_user_level_dp.pdf">slides</a>), **Google Federated Learning Seminar** (<b><mark>Postdoc final presentation</mark></b>), February 2024.
