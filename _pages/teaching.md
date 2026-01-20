@@ -8,9 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-Teaching at IIT Madras:
+Teaching at IIT Madras. Current:
+* DA 5001 / DA 6336: Privacy in AI,  [<u>Jan-May 2026</u>](https://krishnap25.github.io/privAI_course_2026e/) 
+
+Previous:
+* DA 2400: Machine Learning I, July-Nov 2025
 * DA 7450: Topics in AI Privacy, Jan-May 2025
-* DA 5001 / DA 6400: Privacy in AI,  [<u>July-Nov 2024</u>](https://krishnap25.github.io/privAI_course_2024o/) 
+* DA 5001 / DA 6336: Privacy in AI,  [<u>July-Nov 2024</u>](https://krishnap25.github.io/privAI_course_2024o/) 
 
 
 During my PhD, I have also been a teaching assistant for
