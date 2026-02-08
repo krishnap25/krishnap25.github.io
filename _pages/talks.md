@@ -5,7 +5,7 @@ redirect_from:
   - /talks.html
 ---
 
-* Towards Provably Privacy-Preserving AI in the Age of Foundation Models ([recording](https://www.youtube.com/watch?v=ZE-8UwpbCws)), **[CSML Workshop](https://events.csa.iisc.ac.in/futurecomputing2025/) @ IISc**, November 2025.
+* Towards Provably Privacy-Preserving AI in the Age of Foundation Models ([recording](https://www.youtube.com/watch?v=ZE-8UwpbCws)), **[CSML Workshop](https://events.csa.iisc.ac.in/futurecomputing2025/) @ IISc**, **Early Career Highlights @ [CODS Conference](https://ikdd.acm.org/cods-2025/)** November & December 2025.
 * Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **WSAI Faculty Talks @ IITM**, September 2025.
 * Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>, &nbsp;  [recording](https://www.youtube.com/watch?v=ip-bkyeGQGQ)), **TIFR**, July 2025.
 * InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy. **Microsoft Research**, June 2025.
