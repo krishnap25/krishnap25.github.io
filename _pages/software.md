@@ -7,6 +7,10 @@ redirect_from:
 
 ## Packages
 
+[**Invisible Ink**](https://github.com/cerai-iitm/invisibleink)  
+Package for LLM-based text generation with differential privacy using the [InvsibleInk method (NeurIPS 2025)](https://arxiv.org/abs/2507.02974). 
+Install as `pip install invink`.
+
 [**XBern Confidence Intervals**](https://github.com/krishnap25/xbern_confidence_intervals/)   
 An XBern or exchangeable Bernoulli distribution is a probability distribution over binary vectors which is exchangeable, i.e., the probability mass does not change when the coordinates of the vector are permuted. This package gives confidence intervals for the mean of the XBern distribution.
 
