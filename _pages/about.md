@@ -30,6 +30,8 @@ Some highlights from my previous research include:
 
 ## News
 
+* [Feb. 2026] Our lab's MS student Kaushik Doddamani has been selected for the IndiaAI Fellowship! Congratulations, Kaushik!
+* [Dec. 2025] Back at NeurIPS in San Diego!
 * [Nov. 2025] Honoured to receive the **AI2050 Early Career Fellowship** by Schmidt Sciences! ([Press Coverage](https://www.forbes.com/sites/michaeltnietzel/2025/11/05/schmidt-sciences-announces-its-latest-cohort-of--ai2050-fellows/))
 * [Oct. 2025] Excited to announce that the first student [paper](https://arxiv.org/pdf/2507.02974) from my IITM group has been accepted to NeurIPS 2025! Congrats to [Vishnu](https://in.linkedin.com/in/vishnuvind), who shows how to use LLMs to generate synthetic text at scale with differential privacy guarantees, using 10x less computational cost than prior work. Joint work with Abhradeep Thakurta.
 * [Jun. 2025] Thrilled to announce the release of our **[monograph](https://arxiv.org/pdf/2506.08201)** on **correlated noise mechanisms for differentially private learning**! This tutorial is a deep dive into a fascinating area with several exciting open questions. Co-authored with Jalaj Upadhyay and other amazing collaborators from academia and industry. Comments are welcome!
