@@ -32,7 +32,10 @@ Brendan McMahan, Krishna Pillutla.
 Vishnu Vinod, Krishna Pillutla, Abhradeep Guha Thakurta.  
 *NeurIPS (2025)*.  
 [PDF](https://arxiv.org/pdf/2507.02974)  &nbsp;
-[Code](https://github.com/cerai-iitm/InvisibleInk)  &nbsp;
+[Code](https://github.com/cerai-iitm/InvisibleInk-Experiments)  &nbsp;
+[Software (pip)](https://github.com/cerai-iitm/InvisibleInk)  &nbsp;
+[Poster](/papers/2025_invink_poster.pdf)  &nbsp;
+
 
 **Fine-Tuning Large Language Models with User-Level Differential Privacy.**  
 Zachary Charles, Arun Ganesh, Ryan McKenna, H Brendan McMahan, Nicole Mitchell, Krishna Pillutla, Keith Rush.  
