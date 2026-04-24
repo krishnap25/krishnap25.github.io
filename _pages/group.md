@@ -11,10 +11,10 @@ redirect_from:
 
 **MS/PhD and Post-Bacc Fellows**:  
 [Kaushik Doddamani](https://in.linkedin.com/in/kaushik-doddamani) (MS by research)  
-Arun Ramaswamy (Post-Bacc Fellow). Prev: IIT Madras (BTech CSE) & Amazon  
+Arun Ramaswamy (MS by research). Prev: IIT Madras (BTech CSE) & Amazon  
 [Dhruv Shah](https://in.linkedin.com/in/dhruv-shah-a41047220) (Post-Bacc Fellow). Prev: DAU (BTech Math & Computing)  
 [Vraj Thakkar](https://in.linkedin.com/in/vraj-thakkar-784026286) (Post-Bacc Fellow, joint w/ [Arjun Bhagoji](https://arjunbhagoji.github.io/)). Prev: DAU (BTech Math & Computing)  
-[Vishnu Vinod](vishnuvinod8.github.io) (Post-Bacc Fellow). Prev: IIT Madras (BTech & MTech CSE)  
+[Vishnu Vinod](https://vishnuvinod8.github.io) (Post-Bacc Fellow). Prev: IIT Madras (BTech & MTech CSE)  
 
 **Undergraduates and MTech**:  
 [Karthick Krishna](https://scholar.google.com/citations?user=9njKEowAAAAJ&hl=en) (DDP, joint w/ [Saurav Prakash](https://www.ee.iitm.ac.in/faculty/profile/saurav))  
