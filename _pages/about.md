@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an assistant professor and the Narayanan Family Foundation Fellow at the [Wadhwani School of Data Science & AI](https://wsai.iitm.ac.in/) and a principal investigator at the Centre for Responsible AI ([CeRAI](https://cerai.iitm.ac.in/)) at **IIT Madras**. 
+I'm an assistant professor and the Narayanan Family Foundation Fellow at the [Wadhwani School of Data Science & AI](https://wsai.iitm.ac.in/) at **IIT Madras**. I am also affiliated with the Centre for Responsible AI ([CeRAI](https://cerai.iitm.ac.in/)) and Arvind Raghunathan Center for Theoretical Computer Science ([aRtCS](https://artcs.iitm.ac.in/)) at IIT Madras.
 My group studies the theory and practice of ML & AI, focusing on privacy-preserving and robust learning/inference of LLMs and generative AI, with applications to healthcare and public good.
 
 Previously, I was a visiting researcher (postdoc) at Google Research in the Federated Learning team. I obtained my PhD from the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the **University of Washington**,
@@ -16,7 +16,7 @@ Before that, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my 
 
 My research has been recognized by [an AI2050 Early Career Fellowship by Schmidt Sciences](https://ai2050.schmidtsciences.org/fellows/), [a NeurIPS outstanding paper award](https://news.cs.washington.edu/2022/02/28/allen-school-and-ai2-researchers-paint-the-neurips-conference-mauve-and-take-home-an-outstanding-paper-award/), and I was a 2019-20 [J.P. Morgan PhD Fellow](https://www.jpmorgan.com/country/US/en/technology/ai/awards/phd-fellowship-award-recipients).
 
-Contact me at [my-first-name][my-last-initial] @ dsai [dot] iitm [dot] ac [dot] in.
+Contact me at [krishna][p] @ dsai [dot] iitm [dot] ac [dot] in.
 
 **Interested in joining us?** See [here](/prospective).
 
@@ -30,6 +30,7 @@ Some highlights from my previous research include:
 
 ## News
 
+* [Mar. 2026] The Arvind Raghunathan Center for Theoretical Computer Science (aRtCS) at IIT Madras is now officially up and running! I am delighted to be affiliated with it! Stay tuned for announcements on workshops, summer/winter schools, and other exciting activities. 
 * [Feb. 2026] Our lab's MS student Kaushik Doddamani has been selected for the IndiaAI Fellowship! Congratulations, Kaushik!
 * [Dec. 2025] Back at NeurIPS in San Diego!
 * [Nov. 2025] Honoured to receive the **AI2050 Early Career Fellowship** by Schmidt Sciences! ([Press Coverage](https://www.forbes.com/sites/michaeltnietzel/2025/11/05/schmidt-sciences-announces-its-latest-cohort-of--ai2050-fellows/))
