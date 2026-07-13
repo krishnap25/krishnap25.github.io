@@ -5,11 +5,13 @@ redirect_from:
   - /talks.html
 ---
 
+* Private Text Generation with LLMs: Mechanisms, Applications, and Audits (<a href="https://drive.google.com/file/d/1I8OMdL3pW1usBOrKNjxW7n2JxW3ESG7W/view?usp=drive_link">slides</a>), **Microsoft Resarch India Academic Summit**, June 2026.
+* Introduction to Differential Privacy and Applications to Private LLM Inference (<a href="https://drive.google.com/file/d/1YYXVtrz7HENWLEQJutopaofDY7MaIeJZ/view?usp=sharing">slides</a>), **[Frontiers Symposium in Data Science](https://sites.google.com/iisertvm.ac.in/fs-dsc2026/home) @ IISER TVM** (Feb. 2026), **[Foundations of Ethical AI Workshop](https://mll.iiit.ac.in/feai/) @ IIIT Hyderabad** (June 2026) 
 * Towards Provably Privacy-Preserving AI in the Age of Foundation Models ([recording](https://www.youtube.com/watch?v=ZE-8UwpbCws)), **[CSML Workshop](https://events.csa.iisc.ac.in/futurecomputing2025/) @ IISc**, **Early Career Highlights @ [CODS Conference](https://ikdd.acm.org/cods-2025/)** November & December 2025.
 * Towards Provably Privacy-Preserving AI in the Age of Foundation Models, **WSAI Faculty Talks @ IITM**, September 2025.
-* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>, &nbsp;  [recording](https://www.youtube.com/watch?v=ip-bkyeGQGQ)), **TIFR**, July 2025.
+* Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="https://drive.google.com/file/d/1Q4C-An5hUubiAB5Jw-VI6gZz07yF0_-d/view?usp=drive_link">slides</a>, &nbsp;  [recording](https://www.youtube.com/watch?v=ip-bkyeGQGQ)), **SCTS Seminar at TIFR**, July 2025.
 * InvisibleInk: High-Utility and Low-Cost Text Generation with Differential Privacy. **Microsoft Research**, June 2025.
-* Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **STCS Seminar IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
+* Towards User-Level Differential Privacy at Scale (<a href="/slides/towards_user_level_dp_v2.pdf">slides</a>), **IISc**, **Microsoft Research India Lab**, **Amazon Tech Talks**, February & March 2025
 * Near-Optimal Private Learning with Correlated Noise Mechanisms (<a href="/slides/near_optimal_correlated_noise.pdf">slides</a>), [**BIRS Workshop on ML & Statistics**](https://workshops.birs.ca/events/25w5389/schedule) (CMI, Chennai), January 2025.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **National Symposium on AI in Healthcare** (IIT Jodhpur), November 2024.
 * Was My Data Used to Train a LLM? (<a href="/slides/user_inference.pdf">slides</a>), **GenAI in Cybersecurity Symposium** (MeitY/DSCI), October 2024.
